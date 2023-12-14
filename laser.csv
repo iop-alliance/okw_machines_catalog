@@ -1,0 +1,228 @@
+﻿model,Brand,Laser Type,Working Area,Materials
+A3 Pro,EleksLaser,,380 x 300 mm,"MDF, Balsa, Paper, Wood, Leather, Fabric, Plastic, Plywood, Foam Paper, Aluminum"
+SP500,Trotec Laser,CO₂,1245 x 710 mm,"Acrylic, Laminates, Leather, Paper, Plastics, Textiles, Wood; Glass and Stone (engraving only)"
+DANOBAT LB,DANOBAT,Fiber,,
+Seron Fiber Cut 4000,Seron,Fiber,1550 x 3050 mm,
+CJG-160300 LD,,CO2,1600 x 3000 mm,
+M-800,Eurolaser,CO2,1330 x 830 mm,
+M-1200,Eurolaser,CO2,1330 mm x 1230 mm,
+M-1600,Eurolaser,CO2,1330 mm x 1630 mm,
+L-1200,Eurolaser,CO2,1800 mm x 1230 mm,
+L-3200,Eurolaser,CO2,1800 mm x 3200 mm,
+XL-1200,Eurolaser,CO2,2270 mm x 1230 mm,
+XL-1600,Eurolaser,CO2,2270 mm x 1600 mm ,
+XL-3200,Eurolaser,CO2,2270 mm x 3200 mm,
+2XL-3200,Eurolaser,CO2,2740 mm x 3200 mm,
+Laserscript LS3020,HPC Laser,CO2,30 x 200 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 3040,HPC Laser,CO2,420 x 300 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 3040-50,HPC Laser,CO2,420 x 300 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 3040-60,HPC Laser,CO2,420 x 300 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+Laserscript LS 3060-50,HPC Laser,CO2,600 x 300 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 3060-60,HPC Laser,CO2,600 x 300 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+Laserscript LS6840,HPC Laser,CO2,680 x 400 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 6840-60,HPC Laser,CO2,680 x 400 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+Laserscript LS 6090-60,HPC Laser,CO2,600 x 900 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 6090-80,HPC Laser,CO2,600 x 900 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 6090-130,HPC Laser,CO2,600 x 900 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 1290-80,HPC Laser,CO2,1200 x 900 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 1290-130,HPC Laser,CO2,1200 x 900 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 1290-150,HPC Laser,CO2,1200 x 900 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 1690-80,HPC Laser,CO2,1600 x 900 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 1690-130,HPC Laser,CO2,1600 x 900 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 1690-150,HPC Laser,CO2,1600 x 900 mm,"Sheet materials including acrylic, plywood, MDF veneers, engraving laminate"
+LS 1390 PRO Laser Multi Cut Metal/Non Metal,HPC Laser,CO2,1250 x 900 mm,
+LS 2515 PRO Flatbed Laser,HPC Laser,CO2,2500 x 1500 mm,"Paper, card, greyboard, acrylic, mylar, laser plywood, MDF, woods, engraving laminate, rubber, leather, fabrics, acrylics, plywood, MDF"
+LS 2030 PRO Flatbed Laser,HPC Laser,CO2,3000 x 2000 mm,"Paper, card, greyboard, acrylic, mylar, laser plywood, MDF, woods, engraving laminate, rubber, leather, fabrics, acrylics, plywood, MDF"
+Laserscript LS 0640,HPC Laser,Fiber,600 x 400 mm,
+Laserscript LS 1390,HPC Laser,Fiber,1300 x 900 mm,
+LS 1325,HPC Laser,Fiber,1300 x 2500 mm,
+Laserscript LS 3015,HPC Laser,Fiber,3000 x 1500 mm,
+Laserscript LSG200,HPC Laser,CO2,,
+iNspire,Eagle,Fiber,2560 x 1290 x 120 mm,"Carbon steel, stainless steel, aluminum, brass, copper"
+iNspire-1530,Eagle,Fiber,3060 x 1540 x 120 mm,"Carbon steel, stainless steel, aluminum, brass, copper"
+iNspire-2040,Eagle,Fiber,4060 x 2040 x 120 mm,"Carbon steel, stainless steel, aluminum, brass, copper"
+iNspire-2060,Eagle,Fiber,6060 x 2040 x 120 mm,"Carbon steel, stainless steel, aluminum, brass, copper"
+iNspire-2560,Eagle,Fiber,6060 x 2540 x 120 mm,"Carbon steel, stainless steel, aluminum, brass, copper"
+eVision-1225,Eagle,Fiber,2560 x 1290 x 120 mm,"Carbon steel, stainless steel, aluminum, brass, copper"
+eVision-1530,Eagle,Fiber,3060 x 1540 x 120 mm,
+eVision-2040,Eagle,Fiber,4060 x 2040 x 120 mm,"Carbon Steel, Stainless Steel, Aluminum, Brass, Copper"
+eVision-2060,Eagle,Fiber,6060 x 2040 x 120 mm,"Carbon Steel, Stainless Steel, Aluminum, Brass, Copper"
+eVision-2560,Eagle,Fiber,6060 x 2540 x 120 mm,"Carbon Steel, Stainless Steel, Aluminum, Brass, Copper"
+eSmart-1225,Eagle,Fiber,2560 x 1290 x 120 mm,"Carbon Steel, Stainless Steel, Aluminum, Brass, Copper"
+eSmart-1530,Eagle,Fiber,3060 x 1540 x 120 mm,"Carbon Steel, Stainless Steel, Aluminum, Brass, Copper"
+Speedy-100,Trotec,CO2,610 x 305 mm,"Acrylic, Laminates, Leather, Paper, Plastics, Textiles, Wood"
+Speedy-300,Trotec,CO2,726 x 432 mm,"Acrylic, Laminates, Leather, Paper, Plastics, Textiles, Wood"
+G12,Bodor,Fiber,12500 x 3200 mm,"Carbon Steel, Stainless Steel"
+G16,Bodor,Fiber,16500 x 3200 mm,"Carbon Steel, Stainless Steel"
+G20,Bodor,Fiber,20500 x 3200 mm,"Carbon Steel, Stainless Steel"
+S3015,Bodor,Fiber,3048 x 1524 mm,"Carbon Steel, Stainless Steel"
+S4020,Bodor,Fiber,4000 x 2000 mm,"Carbon Steel, Stainless Steel"
+S6025,Bodor,Fiber,6100 x 2500 mm,"Carbon Steel, Stainless Steel"
+S8025,Bodor,Fiber,8100 x 2500 mm,"Carbon Steel, Stainless Steel"
+P3015,Bodor,Fiber,3000 x 1500 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+P4020,Bodor,Fiber,4000 x 2000 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+P6020,Bodor,Fiber,6100 x 2000 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+P6025,Bodor,Fiber,6100 x 2500 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+P8025,Bodor,Fiber,8100 x 2500 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+E3015,Bodor,Fiber,3000 x 1500 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+E4020,Bodor,Fiber,4000 x 2000 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+E6020,Bodor,Fiber,6100 x 2000 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+E6025,Bodor,Fiber,6100 x 2500 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+F3015,Bodor,Fiber,3048 x 1524 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+F4020,Bodor,Fiber,4000 x 2000 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+F6020,Bodor,Fiber,6100 x 2000 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+F6025,Bodor,Fiber,6100 x 2500 mm,"Carbon steel, stainless steel, aluminum, brass and metal alloys"
+A3,Bodor,Fiber,3048 x 1524 mm,
+A4,Bodor,Fiber,4000 x 1524 mm,
+A4 Plus,Bodor,Fiber,4000 x 2000 mm,
+A6,Bodor,Fiber,6100 x 1524 mm,
+A6 Plus,Bodor,Fiber,6100 x 2500 mm,
+C12,Bodor,Fiber,12000 x 2500 mm,
+C8,Bodor,Fiber,8000 x 2500 mm,
+C6,Bodor,Fiber,6100 x 2500 mm,
+C4,Bodor,Fiber,4000 x 2000 mm,
+C3,Bodor,Fiber,3048 x 1524 mm,
+JQ-1530E,JQ Laser,Fiber,3000 x 1500 mm,
+JQ-2040H,JQ Laser,Fiber,4000 x 2000 mm,
+JQ-1530C,JQ Laser,Fiber,3000 x 1500 mm,
+JQ2580HP,JQ Laser,Fiber,8000 x 2500 mm,
+JQ1390,JQ Laser,CO2,1300 x 900 mm,
+JQ9060,JQ Laser,CO2,900 x 600 mm,
+JQ1390E,JQ Laser,CO2,1300 x 900 mm,
+JQ-1325,JQ Laser,CO2,1300 x 2500 mm,
+JQ-1325/1530,JQ Laser,CO2,1300 x 2500 mm,
+JQ1390S,JQ Laser,CO2,1300 x 900 mm,
+JQ-1060S,JQ Laser,CO2,1000 x 600 mm,
+JQ1610,JQ Laser,CO2,1600 x 1000 mm,
+JQ1830,JQ Laser,CO2,1800 x 3000 mm,
+JQ1625,JQ Laser,CO2,1600 x 2500 mm,
+JQ-FL,JQ Laser,Fiber,300 x 300 mm,
+AWING,Penta Laser,,4000 x 2000 mm,
+BOLT,Penta Laser,Fiber,6000 x 2000 mm,
+SWING,Penta Laser,Fiber,4000 x 2000 mm,
+Fiber Plus,Penta Laser,Fiber,4000 x 2000 mm,
+LF3015GA,Gweike,Fiber,3000 x 1500 mm,
+Storm600,Gweike,CO2,600 x 400 mm,
+LC1325D,Gweike,CO2,1300 x 2500 mm,
+LC1610N,Gweike,CO2,1880 x 2410 x 1280 mm,
+LG6040N,Gweike,CO2,600 x 400 mm,
+LG900N,Gweike,CO2,900 x 600 mm,
+LC1325M,Gweike,CO2,1300 x 2500 mm,
+LC6090,Gweike,CO2,900 x 600 mm,
+LC1390,Gweike,CO2,1300 x 900 mm,
+LC1390N,Gweike,CO2,1300 x 900 mm,
+LF4020GH,Gweike,Fiber,6000 x 2000 mm,
+LF3015P,Gweike,Fiber,3000 x 1500 mm,
+4060 CO2,Shandong Guangjie Intelligent Equipment,CO2,600 x 400 mm,
+6090 CO2,Shandong Guangjie Intelligent Equipment,CO2,600 x 900 mm,
+1390 CO2,Shandong Guangjie Intelligent Equipment,CO2,1300 x 900 mm,
+3015,Shandong Guangjie Intelligent Equipment,Fiber,3000 x 1500 mm,
+BCJ1390,BCAMCNC,CO2,,
+BCJ3015,BCAMCNC,Fiber,1500 x 3000 mm,
+FG3015DH,SUDA,Fiber,1500 x 3000 mm,
+FV4020DH,SUDA,Fiber,4000 x 2000 mm,
+FV3015DH,SUDA,Fiber,1500 x 3000 mm,
+FV6020DH,SUDA,Fiber,6000 x 2000 mm,
+FV6025DH,SUDA,Fiber,2500 x 6000 mm,
+FG3015,SUDA,Fiber,3000 x 1500 mm,
+FG4015,SUDA,Fiber,,
+FG6015,SUDA,Fiber,,
+FG4020,SUDA,Fiber,,
+FG6020,SUDA,Fiber,6000 x 2000 mm,
+FC-3015G,SUDA,Fiber,1500 x 3000 mm,
+FC-4015G,SUDA,Fiber,1500 x 4000 mm,
+FC-6015G,SUDA,Fiber,1500 x 6000 mm,
+FC-4020G,SUDA,Fiber,2000 x 4000 mm,
+FC-6020G,SUDA,Fiber,2000 x 6000 mm,
+FC1325,SUDA,Fiber,1300 x 2500 mm,
+FC1530,SUDA,Fiber,1500 x 3000 mm,
+FC1540,SUDA,Fiber,1500 x 4000 mm,
+FC1560,SUDA,Fiber,1500 x 6000 mm,
+AG6000,SUDA,Fiber,,
+MT3015G,Myst,Fiber,1500 x 3000 mm,
+MT4020G,Myst,Fiber,2000 x 4000 mm,
+MT3015C,Myst,Fiber,1500 x 3000 mm,
+MTF3015G,Myst,Fiber,3000 x 1500 mm,
+MTF3015J,Myst,Fiber,3000 x 1500 mm,
+MTF3015,Myst,Fiber,3000 x 1500 mm,
+MTF0640,Myst,Fiber,600 x 400 mm,
+MT1309M,Myst,Fiber,1300 x 900 mm,
+MTF1390,Myst,Fiber,6000 x 215 mm,
+XT-S1530,XTLASER,Fiber,1510 x 3050 mm,
+XT-S1545,XTLASER,Fiber,1510 x 4550 mm,
+XT-S1560,XTLASER,Fiber,1510 x 6050 mm,
+XT-S2040,XTLASER,Fiber,2030 x 4050 mm,
+XT-S2060,XTLASER,Fiber,2030 x 6050 mm,
+XT-G1530,XTLASER,Fiber,1510 x 3050 mm,
+XT-G2040,XTLASER,Fiber,2030 x 4050 mm,
+XT-G2060,XTLASER,Fiber,2030 x 6050 mm,
+XT-G2560,XTLASER,Fiber,2530 x 6050 mm,
+XT-G1530Pro,XTLASER,Fiber,1510 x 3050 mm,
+G2040Pro,XTLASER,Fiber,2030 x 4550 mm,
+XT-G2060Pro,XTLASER,Fiber,2030 x 4050 mm,
+XT-G2560Pro,XTLASER,Fiber,2500 x 6050 mm,
+XT-G2580Pro,XTLASER,Fiber,2500 x 8050 mm,
+XT-H1530T,XTLASER,Fiber,1500 x 3000 mm,
+XT-H1545T,XTLASER,Fiber,1500 x 4500 mm,
+XT-H1560T,XTLASER,Fiber,1500 x 6000 mm,
+XT-H2040T,XTLASER,Fiber,2000 x 4000 mm,
+XT-H2060T,XTLASER,Fiber,2000 x 6000 mm,
+1530HE,XTLASER,Fiber,1500 x 3000 mm,
+XT-1545HE,XTLASER,Fiber,1500 x 4500 mm,
+XT-1560HE,XTLASER,Fiber,1500 x 6000 mm,
+XT-1309S,XTLASER,Fiber,1300 x 900 mm,
+XT-T160,XTLASER,Fiber,,
+XT-H1530,XTLASER,Fiber,1510 x 3050 mm,
+XT-H1545,XTLASER,Fiber,1510 x 4550 mm,
+XT-H1560,XTLASER,Fiber,1510 x 6050 mm,
+XT-H2040,XTLASER,Fiber,2030 x 4050 mm,
+XT-H2060,XTLASER,Fiber,2030 x 6050 mm,
+1530WT–60020,XTLASER,Fiber,1500 x 3000 mm,
+2040WT,XTLASER,Fiber,2000 x 4000 mm,
+XT-2060WT,XTLASER,Fiber,2000 x 6000 mm,
+XT-2560WT,XTLASER,Fiber,2500 x 6000 mm,
+XT-1530w,XTLASER,Fiber,1530 x 3050 mm,
+XT-1560H,XTLASER,Fiber,1530 x 6050 mm,
+XT-2040w,XTLASER,Fiber,1530 x 4050 mm,
+XT-2060w,XTLASER,Fiber,1530 x 6050 mm,
+XT-1530GT,XTLASER,Fiber,1500 x 3000 mm,
+XT-2040GT,XTLASER,Fiber,2000 x 4000 mm,
+XT-2060GT,XTLASER,Fiber,2000 x 6000 mm,
+XT-2560GT,XTLASER,Fiber,2500 x 6000 mm,
+XTE-1610,XTLASER,CO2,1000 x 1600 mm,
+XTE-1390,XTLASER,CO2,1300 x 900 mm,
+XTE-6090D,XTLASER,CO2,600 x 900 mm,
+XTE-1290D,XTLASER,CO2,1200 x 900 mm,
+XTE-1490D,XTLASER,CO2,1400 x 900 mm,
+XTE-1325D,XTLASER,CO2,1300 x 2500 mm,
+XTE-6040,XTLASER,CO2,600 x 400 mm,
+XTE-9060,XTLASER,CO2,900 x 600 mm,
+XTE-1290,XTLASER,CO2,1200 x 900 mm,
+XTE-1490,XTLASER,CO2,1400 x 900 mm,
+Rayjet 50,Rayjet,CO2,457 x 305 mm,
+R500,Rayjet,CO2,1300 x 900 mm,
+Beambox,Flux,CO2,400 x 375 mm,
+beamo,Flux,CO2,300 x 210 mm,
+CJGV160130LD,Goldenlaser,CO2,1600 x 1300 mm,
+CJGV-190130LD,Goldenlaser,CO2,1900 x 1300 mm,
+JMCCJG,Goldenlaser,CO2,2000 x 1300 mm,
+JYCCJG,Goldenlaser,CO2,8000 x 3200 mm,
+QZDXBJGHY,Goldenlaser,CO2,1600 x 1000 mm,
+JMC SERIES,Goldenlaser,CO2,2000/8000 x 1300/3200 mm,
+MARS,Goldenlaser,CO2,1000/1800 x 600/1000 mm,
+MJG-160100LD,Goldenlaser,CO2,1600 x 1000 mm,
+MJG-13090SG,Goldenlaser,CO2,1300 x 900 mm,
+JMCCJG-350400LD,Goldenlaser,CO2,2000/8000 x 1300/3200 mm,
+LC-350,Goldenlaser,CO2,350 mm x ∞,
+JMCCJG-160300LD,Goldenlaser,CO2,1600 x 3000 mm,
+JMCZJJG(3D)-250300LD,Goldenlaser,CO2,2500 x 3000 mm,
+JMCCJG-250300LD,Goldenlaser,CO2,2000/8000 x 1300/3200 mm,
+JMCZJ(3D)160100LD,Goldenlaser,CO2,1600 x 1000 mm,
+JMCCJG-230230LD,Goldenlaser,CO2,2300 x 2300 mm,
+JMCZJJG(3D)170200LD,Goldenlaser,CO2,1700 x 2000 mm,
+MZDJG-160100LD,Goldenlaser,CO2,1600 x 1000 mm,
+QZDMJG-160100LD,Goldenlaser,CO2,1600 x 1000 mm,
+CJGV-320400LD,Goldenlaser,CO2,3200 x 4000 mm,
+JMCCJG-250350LD,Goldenlaser,CO2,2500 x 3500 mm,
+CJG-160600LD,Goldenlaser,CO2,1600/2500 x 6000/13000 mm,
+Sl-3015,ZhuangYe,Fiber,1500 x 3000 mm,

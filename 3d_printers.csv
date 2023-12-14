@@ -1,0 +1,856 @@
+﻿Model,Technology,Materials,Brand,Build Size
+LeapFrog Creatr,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",LeapFrog,200 x 270 x 200 mm 
+LeapFrog Creatr HS,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",LeapFrog,270 x 260 x 180 mm 
+LeapFrog Creatr XL,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",LeapFrog,270 x 270 x 600 mm 
+Leapfrog Xeed,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS",LeapFrog,220 x 280 x 230 mm 
+MakerBot Replicator 2,FDM (Fused Deposition Modeling),"PLA, FLEX (Elastic TPE), Brick PLA",Makerbot,285 x 153 x 155 mm 
+MakerBot Replicator 2X,FDM (Fused Deposition Modeling),"PLA, ABS, Brass PLA and +1 materials",Makerbot,246 x 152 x 155 mm 
+Ultimaker Original,FDM (Fused Deposition Modeling),"PLA, ABS, Rubber-like (TPU)",Ultimaker,210 x 210 x 205 mm 
+Ultimaker 2,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS and +4 materials",Ultimaker,223 x 223 x 205 mm 
+Ultimaker 2 Extended,FDM (Fused Deposition Modeling),PLA,Ultimaker,223 x 223 x 305 mm 
+Ultimaker 2 Go,FDM (Fused Deposition Modeling),PLA,Ultimaker,120 x 120 x 115 mm 
+MakerBot Replicator,FDM (Fused Deposition Modeling),"PLA, ABS",Makerbot,252 x 199 x 150 mm 
+MakerBot Replicator Mini,FDM (Fused Deposition Modeling),"PLA, PC-ABS, Polycarbonate (PC) and +4 materials",Makerbot,100 x 100 x 125 mm 
+MakerBot Replicator Z18,FDM (Fused Deposition Modeling),PLA,Makerbot,305 x 305 x 457 mm 
+Type A Machines 1,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Type A Machines,305 x 305 x 305 mm 
+DITTO-Pro,FDM (Fused Deposition Modeling),PLA,Tinkerine,370 x 390 x 436 mm 
+DITTO PLUS,FDM (Fused Deposition Modeling),PLA,Tinkerine,210 x 185 x 230 mm 
+LITTO,FDM (Fused Deposition Modeling),PLA,Tinkerine,135 x 120 x 175 mm 
+gMax 1.5 XT,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",gCreate,406.4 x 406.4 x 228.6 mm 
+re:3D Gigabot,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",re:3D,590 x 600 x 600 mm 
+Rapide Lite 200,FDM (Fused Deposition Modeling),PLA,Rapide 3d,190 x 190 x 190 mm 
+Stratasys uPrint SE,FDM (Fused Deposition Modeling),ABS,Stratasys,203 x 152 x 152 mm 
+Stratasys uPrint SE Plus,FDM (Fused Deposition Modeling),ABS,Stratasys,203 x 203 x 152 mm 
+Craftbot PLUS,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",CraftUnique,250 x 200 x 200 mm 
+FlashForge Creator II,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",FlashForge,225 x 145 x 150 mm 
+FlashForge Dreamer,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",FlashForge,230 x 150 x 140 mm 
+FlashForge Creator Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +23 materials",FlashForge,227 x 148 x 150 mm 
+FlashForge Creator,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",FlashForge,225 x 145 x 150 mm 
+RigidBot Regular,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",RigidBot,254 x 254 x 254 mm 
+RigidBot Big,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",RigidBot,300 x 400 x 254 mm 
+Solidoodle 2 Base,FDM (Fused Deposition Modeling),"PLA, ABS",Solidoodle,152 x 152 x 152 mm 
+Solidoodle 2 Pro,FDM (Fused Deposition Modeling),"PLA, ABS",Solidoodle,152 x 152 x 152 mm 
+Solidoodle 3,FDM (Fused Deposition Modeling),"PLA, ABS",Solidoodle,203 x 203 x 203 mm 
+Solidoodle 4,FDM (Fused Deposition Modeling),"PLA, ABS",Solidoodle,203 x 203 x 203 mm 
+Rapide Lite 500,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS",Rapide 3d,500 x 500 x 500 mm 
+Printrbot+,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",Printrbot,250 x 250 x 265 mm 
+Printrbot Simple Metal,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Printrbot,150 x 150 x 150 mm 
+Craftbot,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",CraftUnique,250 x 200 x 200 mm 
+CTC-3D Bizer,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +4 materials",CTC LTD,225 x 145 x 150 mm 
+ATOM 2.0,FDM (Fused Deposition Modeling),"PLA, ABS",ATOM,155 x 155 x 320 mm 
+Creatbot DX,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +6 materials",Creatbot,300 x 250 x 300 mm 
+Fusematic,FDM (Fused Deposition Modeling),"PLA, Nylon, Polycarbonate (PC)",Maker's Tool Works,200 x 225 x 200 mm 
+LulzBot TAZ 5,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +10 materials",LulzBot,290 x 275 x 250 mm 
+MOD-t,FDM (Fused Deposition Modeling),PLA,New Matter,150 x 100 x 125 mm 
+PrintRite DIY,FDM (Fused Deposition Modeling),"PLA, ABS",Print-Rite,200 x 200 x 170 mm 
+Zmorph 2.0S,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS and +1 materials",Zmorph,250 x 235 x 165 mm 
+Makergear M2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +6 materials",MakerGear,190 x 240 x 190 mm  
+Rostock Max V2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",SeeMeCNC,197 x 197 x 375 mm 
+da Vinci 1.0 PRO,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +7 materials",XYZPrinting,200 x 200 x 200 mm 
+da Vinci 2.0 Duo,FDM (Fused Deposition Modeling),"PLA, ABS",XYZPrinting,150 x 200 x 200 mm 
+da Vinci 1.0 AiO,FDM (Fused Deposition Modeling),"PLA, ABS",XYZPrinting,200 x 200 x 190 mm 
+Wanhao i3 Duplicator,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +12 materials",Wanhao,200 x 200 x 180 mm 
+FELIX 3.1,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",FELIXprinters,255 x 205 x 225 mm 
+TripodMaker Classic,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",TripodMaker,210 x 210 x 390 mm 
+ProJet CJP 660Pro,CJP (ColorJet Printing),Full-color sandstone (VisiJet PXL),3D Systems,254 x 381 x 203 mm 
+ProJet 3500 HDMax,MJP (MultiJet Printing),VisiJet M3,3D Systems,298 x 185 x 203 mm 
+Pegasus Touch,SLA (Stereolithography),"Resin, Castable Resin, Flexible Resin",FSL3D,177 x 177 x 228 mm 
+Kudo3D Titan 1,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin",Kudo3D,177 x 101 x 254 mm 
+Fortus 400mc,FDM (Fused Deposition Modeling),"ABS, Nylon, ABSi and +9 materials",Stratasys,355 x 254 x 254 mm 
+Objet Eden 260V,PolyJet and PolyJetMatrix,"Vero, Durable (PP-like) Resin, Tango (Rubber-like material) and +1 materials",Stratasys,255 x 252 x 200 mm 
+Mcor IRIS HD,LOM (Laminated Object Manufacturing),Paper,Mcor,256 x 169 x 150 mm 
+LulzBot Mini,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +4 materials",LulzBot,152 x 152 x 158 mm 
+LulzBot TAZ 3,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",LulzBot,298 x 275 x 250 mm 
+LulzBot TAZ 4,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS",LulzBot,298 x 275 x 250 mm 
+sPro 60,SLS (Selective Laser Sintering),"DuraForm PA Plastic, DuraForm EX, DuraForm GF",3D Systems,381 x 330 x 460 mm 
+ROBO 3D R1 PLUS,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +10 materials",Robo 3D,254 x 225 x 200 mm 
+Solidscape Max 2,SCP (Smooth Curvature Printing),Jewelry Wax (Solidscape 3Z Model),Solidscape,152.4 x 152.4 x 101.6 mm
+ProJet 4500,CJP (ColorJet Printing),"Nylon, Full-color plastic (VisiJet C4 Spectrum)",3D Systems,203 x 254 x 203 mm 
+BQ Prusa i3 Hephestos,FDM (Fused Deposition Modeling),"PLA, Nylon, HIPS and +2 materials",BQ,215 x 210 x 180 mm 
+CR-7 Mini 3D Printer,FDM (Fused Deposition Modeling),"PLA, FLEX (Elastic TPE), Wood PLA and +3 materials",Creality,130 x 150 x 100 mm 
+Printrbot Play,FDM (Fused Deposition Modeling),PLA,Printrbot,100 x 100 x 130 mm 
+Wasp Delta 2040,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +14 materials",Wasp3d,140 x 140 x 400 mm 
+Sharebot XXL,FDM (Fused Deposition Modeling),"PLA, Nylon",Sharebot,700 x 250 x 200 mm 
+Zortrax M200,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +15 materials",Zortrax,200 x 200 x 180 mm 
+FlexMaker Bulldozer HD,FDM (Fused Deposition Modeling),"PLA, FLEX (Elastic TPE), Wood PLA",3Dealo,300 x 200 x 300 mm 
+FlexMaker Bulldozer LT,FDM (Fused Deposition Modeling),"PLA, FLEX (Elastic TPE), Wood PLA",3Dealo,200 x 200 x 250 mm 
+FlexMaker Monster,FDM (Fused Deposition Modeling),"PLA, FLEX (Elastic TPE), Wood PLA",3Dealo,600 x 400 x 350 mm 
+FlexMaker Darkside,FDM (Fused Deposition Modeling),"PLA, FLEX (Elastic TPE), Wood PLA",3Dealo,400 x 400 x 500 mm 
+Form 1+,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin and +4 materials",Formlabs,125 x 125 x 165 mm 
+Form 2,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin and +14 materials",Formlabs,145 x 145 x 175 mm 
+Stacker 500 Desktop 3D Printer,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Stacker3D,250 x 450 x 220 mm 
+Stacker 500 Full Size 3D Printer,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Stacker3D,250 x 450 x 600 mm 
+AXIOM,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Airwolf 3D,317 x 200 x 254 mm 
+AXIOME,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Airwolf 3D,317 x 200 x 254 mm 
+AXIOM DUAL EXTRUDER,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Airwolf 3D,317 x 200 x 230 mm 
+Mojo,FDM (Fused Deposition Modeling),ABS,Stratasys,127 x 127 x 127 mm 
+Objet24,PolyJet and PolyJetMatrix,Vero,Stratasys,240 x 200 x 150 mm 
+Objet30,PolyJet and PolyJetMatrix,"Vero, Durable (PP-like) Resin, Durus",Stratasys,294 x 192 x 148.6 mm 
+Objet30 Prime,PolyJet and PolyJetMatrix,"Vero, Durable (PP-like) Resin, Tango (Rubber-like material) and +2 materials",Stratasys,294 x 192 x 148.6 mm 
+Objet30 Pro,PolyJet and PolyJetMatrix,"Vero, Durable (PP-like) Resin, High Temperature (RGD525)",Stratasys,294 x 192 x 148.6 mm 
+Dimension 1200es,FDM (Fused Deposition Modeling),"ABS, HIPS, PC-ABS",Stratasys,254 x 254 x 305 mm 
+Dimension Elite,FDM (Fused Deposition Modeling),ABS,Stratasys,203 x 203 x 305 mm 
+Fortus 250mc,FDM (Fused Deposition Modeling),"ABS, PC-ABS, PPSF/PPSU (Heat and chemical resistant)",Stratasys,254 x 254 x 305 mm 
+Objet500 Connex3,PolyJet and PolyJetMatrix,"ABS, Vero, Durable (PP-like) Resin and +1 materials",Stratasys,490 x 390 x 200 mm 
+Objet350 Connex3,PolyJet and PolyJetMatrix,"Vero, Durable (PP-like) Resin, Tango (Rubber-like material)",Stratasys,340 x 340 x 200 mm 
+Objet1000 Plus,PolyJet and PolyJetMatrix,"Rubber-like (TPU), Vero, Durable (PP-like) Resin",Stratasys,1000 x 800 x 500 mm 
+Stratasys J750,PolyJet and PolyJetMatrix,"Rubber-like (TPU), Vero, Durable (PP-like) Resin and +1 materials",Stratasys,490 x 390 x 200 mm 
+Fortus 380mc,FDM (Fused Deposition Modeling),"ABS, Nylon",Stratasys,355 x 305 x 305 mm 
+Fortus 450mc,FDM (Fused Deposition Modeling),"ABS, Nylon, Polycarbonate (PC) and +2 materials",Stratasys,406 x 355 x 406 mm 
+Fortus 900mc,FDM (Fused Deposition Modeling),"ABS, Nylon, PC-ABS and +10 materials",Stratasys,914 x 610 x 914 mm 
+CubePro,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",3D Systems,285.4 x 270.4 x 230 mm 
+ProJet 1200,SLA (Stereolithography),"VisiJet FTX Cast, VisiJet FTX resin",3D Systems,43 x 27 x 150 mm 
+ProJet MJP 2500 Series,MJP (MultiJet Printing),"VisiJet M2 Elastomeric, VisiJet M2 Rigid",3D Systems,295 x 211 x 142 mm 
+ProJet 3510,MJP (MultiJet Printing),VisiJet M3,3D Systems,298 x 185 x 203 mm 
+ProJet 3600 Series,MJP (MultiJet Printing),VisiJet M3,3D Systems,298 x 183 x 203 mm
+ProJet 5000,MJP (MultiJet Printing),VisiJet M5,3D Systems,533.4 x 381 x 299.72 mm 
+ProJet 5500X,MJP (MultiJet Printing),"VisiJet CR-WT, VisiJet CR-CL, VisiJet CE-BK",3D Systems,518 x 381 x 300 mm 
+ProJet 6000,SLA (Stereolithography),"Resin, VisiJet SL e-Stone, VisiJet SL Clear",3D Systems,250 x 250 x 250 mm 
+ProJet 7000,SLA (Stereolithography),"Resin, VisiJet FTX resin, VisiJet SL e-Stone",3D Systems,380 x 380 x 250 mm 
+ProJet 260C,CJP (ColorJet Printing),Full-color sandstone (VisiJet PXL),3D Systems,236 x 185 x 127 mm 
+ProJet 360,CJP (ColorJet Printing),Full-color sandstone (VisiJet PXL),3D Systems,203 x 254 x 203 mm 
+ProJet CJP 460Plus,CJP (ColorJet Printing),Full-color sandstone (VisiJet PXL),3D Systems,203 x 254 x 203 mm 
+ProJet CJP 860Pro,CJP (ColorJet Printing),Full-color sandstone (VisiJet PXL),3D Systems,508 x 381 x 229 mm 
+ProX 800,SLA (Stereolithography),"Resin, Accura e-Stone, Accura ClearVue",3D Systems,650 x 750 x 550 mm 
+ProX 950,SLA (Stereolithography),"Jewelry Wax (Solidscape 3Z Model), Accura e-Stone, Accura ClearVue",3D Systems,1500 x 750 x 550 mm 
+ProX 500,SLS (Selective Laser Sintering),DuraForm® ProX™ PA Plastic,3D Systems,381 x 330 x 460 mm 
+sPro 140,SLS (Selective Laser Sintering),"DuraForm PA Plastic, DuraForm EX, DuraForm GF",3D Systems,550 x 550 x 460 mm 
+sPro 230,SLS (Selective Laser Sintering),"DuraForm PA Plastic, DuraForm EX, DuraForm GF",3D Systems,550 x 550 x 750 mm 
+PRAMAAN V2,FDM (Fused Deposition Modeling),"PLA, ABS, Bronze PLA",Global 3D Labs,300 x 300 x 300 mm 
+HD,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Airwolf 3D,300 x 200 x 300 mm 
+HDx,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Airwolf 3D,300 x 200 x 300 mm 
+HD2x,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Airwolf 3D,280 x 200 x 300 mm 
+HDL,FDM (Fused Deposition Modeling),"PLA, Bronze PLA, Brick PLA",Airwolf 3D,300 x 200 x 280 
+HDR,FDM (Fused Deposition Modeling),"ABS, Nylon, Bronze PLA",Airwolf 3D,280 x 200 x 300 mm 
+XL,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Airwolf 3D,300 x 200 x 178 mm 
+Sintratec Kit Printer,SLS (Selective Laser Sintering),PA12 Nylon,Sintratec,110 x 110 x 110 mm 
+ProX 100,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH",3D Systems,100 x 100 x 80 mm 
+Prox 200,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Aluminium Alloy AlSi12",3D Systems,140 x 140 x 100 mm 
+Prox 300,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Aluminium Alloy AlSi12",3D Systems,250 x 250 x 300 mm 
+Prox 320,DMLS (Direct Metal Laser Sintering),"LaserForm Ni718, Stainless Steel 316L",3D Systems,275 x 275 x 420 mm 
+The Micro,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",M3D,109 x 113 x 74 mm 
+The Mark Two,FDM (Fused Deposition Modeling),"Nylon, Copper, A2 Tool Steel and +10 materials",Markforged,320 x 132 x 154 mm 
+Vertex Velleman K8400,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Velleman,180 x 200 x 190 mm 
+HICTOP Prusa I3,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +4 materials",HICTOP,270 x 200 x 170 mm 
+Ultimaker 2+,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +23 materials",Ultimaker,223 x 223 x 205 mm 
+Dremel 3D Idea Builder,FDM (Fused Deposition Modeling),PLA,Dremel,230 x 150 x 140 mm 
+UP BOX,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +5 materials",Tiertime,255 x 205 x 205 mm 
+MendelMax 3,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Maker’s Tool Works,250 x 315 x 197 mm 
+EOS Formiga P100,SLS (Selective Laser Sintering),Polyamide,EOS,200 x 250 x 330 mm 
+EOSINT P395,SLS (Selective Laser Sintering),Polyamide,EOS,340 x 340 x 620 mm 
+DTM Sinterstation 2000,SLS (Selective Laser Sintering),"Nylon, DuraForm PA Plastic, DuraForm EX",DTM,254 x 254 x 343 mm 
+Dimension 768SST,FDM (Fused Deposition Modeling),ABS,Stratasys,250 x 250 x 400 mm 
+The Mark One,FDM (Fused Deposition Modeling),"PLA, Nylon, Carbon Fiber and +1 materials",Markforged,320 x 132 x 160 mm 
+EOS P390,SLS (Selective Laser Sintering),Polyamide,EOS,340 x 340 x 620 mm 
+EOS P730,SLS (Selective Laser Sintering),Polyamide,EOS,700 x 380 x 580 mm 
+EOS P760,SLS (Selective Laser Sintering),"Polyamide, Alumide, Aluminium AlSi10Mg",EOS,700 x 380 x 580 mm 
+JoysMaker R3,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS",JoysMaker,260 x 260 x 280 mm 
+Sharebot Next Generation,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Sharebot,250 x 200 x 200 mm 
+3D dreams V2,FDM (Fused Deposition Modeling),"PLA, ABS",3D dreams,260 x 260 x 260 mm 
+Createbot MAX,FDM (Fused Deposition Modeling),"PLA, ABS, Rubber-like (TPU)",Createbot,280 x 250 x 400 mm 
+Pharaoh ED,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS",Massportal,150 x 150 x 186 mm 
+Folgertech 2020 i3,FDM (Fused Deposition Modeling),"PLA, ABS",Folger Tech,203.2 x 203.2 x 152.4 mm 
+Mass Portal Pharaoh XD,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",Mass Portal,150 x 150 x 186 mm 
+Mass Portal Grand Pharaoh ED,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",Mass Portal,250 x 250 x 350 mm 
+ZPrinter 450,CJP (ColorJet Printing),zp130 Powder,3D Systems,203 x 254 x 203 mm 
+GALILEO SMART,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Kentstrapper,200 x 200 x  160 mm 
+GALILEO SmartUp,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Kentstrapper,200 x 200 x  280 mm 
+ZERO,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Kentstrapper,260 x 260 x  280 mm 
+Griffin Pro XL,FDM (Fused Deposition Modeling),"PLA, ABS",Griffin 3D,325 x 325 x 457 mm 
+Griffin Pro Mini,FDM (Fused Deposition Modeling),"PLA, ABS",Griffin 3D,120 x 120 x 170 mm 
+Griffin Pro Standard,FDM (Fused Deposition Modeling),"PLA, ABS",Griffin 3D,212 x 212 x 300 mm 
+Ember 3D Printer,SLA (Stereolithography),Resin,Ember,64 x 40 x 134 mm 
+Weistek A-Box,FDM (Fused Deposition Modeling),PLA,Weistek,180 x 210 x 200 mm 
+Raise3D N2 Plus,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +14 materials",Raise3D,305 x 305 x 610 mm 
+Raise3D N2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Raise3D,305 x 305 x 305 mm 
+Raise3D N1,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS",Raise3D,205 x 205 x 205 mm 
+FLUX Delta,FDM (Fused Deposition Modeling),"PLA, Bronze PLA, FLEX (Elastic TPE)",FLUX,120 x 120 x 210 mm 
+Afinibot A9L,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Afinibot,210 x 210 x 210 mm 
+CoLiDo Print-Rite DIY,FDM (Fused Deposition Modeling),"PLA, ABS",Print-Rite,200 x 200 x 170 mm 
+Geeetech Prusa I3 X,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +5 materials",Geeetech,200 x 200 x 170 mm 
+Picaso 3D Designer,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +3 materials",Picaso,200 x 200 x 210 mm 
+Big Builder - Dual-Feed,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +1 materials",Builder,220 x 210 x 664 mm 
+ProJet 3000 HD Plus,MJP (MultiJet Printing),"VisiJet® EX200, VisiJet® SR200, VisiJet® HR200",3D Systems,298 x 185 x 203 mm 
+da Vinci 1.0A,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",XYZPrinting,200 x 200 x 200 mm 
+PivotMaker,FDM (Fused Deposition Modeling),"PVA, PLA, FLEX (Elastic TPE)",i3d,850 x 850 x 850 mm 
+PlayMaker HD,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",i3d,360 x 290 x 360 mm 
+EOSINT M 280,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), Aluminium Alloy AlSi12, Stainless Steel 316L",EOS,250 x 250 x 325 mm 
+EOSINT M 290,DMLS (Direct Metal Laser Sintering),"Aluminium Alloy AlSi12, Stainless Steel 316L, Titanium Ti64",EOS,250 x 250 x 325 mm 
+M-Flex,"3DP (3D Printing, Powder Bed and Inkjet Head 3D Printing, Plaster-based 3D Printing)",Stainless Steel 316L,ExOne,400 x 250 x 250 mm 
+Cubicon 3DP - 110F,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE)",Cubicon,239 x 190 x 200 mm 
+MoonRay,DLP (Digital Light Processing),"Resin, Castable Resin",SprintRay,127 x 76 x 203 mm 
+Carbon M1,CLIP (Continuous Liquid Interface Production),"Resin, EPU 40  (polyurethane elastomer), FPU 50 (Flexible Polyurethane)",Carbon 3D,144 x 81 x 330 mm 
+Arcam EBM S12,EBM (Electron Beam Melting),"Cobalt-Chrome (CoCr), Titanium Ti64",Arcam AB,250 x 250 x 200 mm 
+DeltaWASP 40 70,FDM (Fused Deposition Modeling),"PLA, ABS, Bronze PLA and +4 materials",Wasp3d,280 x 280 x 670 mm 
+MakeIt Pro-M,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",MakeIt,200 x 240 x 200 mm 
+Felix Pro 1,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",FELIXprinters,237 x 244 x 235 mm 
+3d Quality Prism MINI,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS",3d Quality,106 x 106 x 230 mm 
+BiZon Prusa i3 Steel,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",3DiY,300 х 300 х 340 mm 
+ZPrinter 310 Plus,CJP (ColorJet Printing),zp130 Powder,3D Systems,203 x 254 x 203 mm 
+BCN3D SIGMA,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +1 materials",BCN3D,210 x 297 x 210 mm 
+Cube 3,FDM (Fused Deposition Modeling),"PLA, ABS",3D Systems,152 x 152 x 152 mm 
+Turnigy Fabrikator,FDM (Fused Deposition Modeling),"PLA, ABS, Copper and +4 materials",Turnigy,150 x 150 x 100 mm 
+Maker Select,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +10 materials",Monoprice,200 x 200 x 177 mm 
+HORI Z300,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",HORI 3D,300 x 260 x 305 mm 
+HORI H1+,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",HORI 3D,240 x 190 x 255 mm 
+HORI Z500,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",HORI 3D,360 x 350 x 560 mm 
+HORI X500,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",HORI 3D,550 x 260 x 250 mm 
+TEVO Black Widow,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +4 materials",TEVO,370 x 250 x 300 mm 
+F400-S,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",Fusion3,360 x 365 x 320 mm 
+F400-HFR,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",Fusion3,360 x 365 x 309 mm 
+F306-Dual Extruder,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",Fusion3,306 x 306 x 306 mm 
+ProMaker V6000,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin",Prodways,120 x 500 x 150 mm 
+ProMaker L7000,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin",Prodways,800 x 330 x 400 mm  
+M2 cusing,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Aluminium Alloy AlSi12 and +1 materials",Concept Laser Machines,254 x 254 x 280 mm 
+X line 2000R,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Aluminium Alloy AlSi12",Concept Laser Machines,800 x 400 x 500 mm 
+Printrbot Go,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Printrbot,600 x 300 x 300 mm 
+3DWOX,FDM (Fused Deposition Modeling),"PLA, ABS",Sindoh,210 x 200 x 195 mm 
+Cubicon 3DP-210F(Style),FDM (Fused Deposition Modeling),"PLA, ABS, Rubber-like (TPU)",Cubicon,150 x 150 x 150 mm 
+Kossel,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",RepRap,120 x 120 x 240 mm 
+Original Prusa i3 MK2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +22 materials",Prusa 3D,250 x 210 x 200 mm 
+Rostock Max V3,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE) and +1 materials",SeeMeCNC,194 x 194 x 400 
+Formbot T Rex,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Formbot,400 x 400 x 450 mm 
+Formiga P 110,SLS (Selective Laser Sintering),"Nylon, Polyamide, Alumide",EOS,200 x 250 x 330 mm 
+EOS P 396,SLS (Selective Laser Sintering),"Polyamide, PA 2200",EOS,340 x 340 x 600 mm 
+SLA 3500,SLA (Stereolithography),"Resin, WaterClear Resin",3D Systems,350 x 350 x 400 mm 
+EOS M 400,DMLS (Direct Metal Laser Sintering),Stainless Steel 316L,EOS,400 x 400 x 400 mm 
+SLA 5000,SLA (Stereolithography),Resin,3D Systems,508 x 508 x 584 mm 
+Sedgwick DLP,DLP (Digital Light Processing),"Resin, Castable Resin",Sedgwick,75 x 75 x 120 mm 
+iSLA-650 Pro,SLA (Stereolithography),Resin,Shining 3D,650 x 600 x 400 mm 
+Mbot Cube,FDM (Fused Deposition Modeling),"PLA, ABS, Bronze PLA",Mbot 3D,250 x 220 x 180 mm 
+Wanhao Duplicator 4S,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",Wanhao,225 x 145 x 150 mm 
+Wanhao Duplicator 5S Mini,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Wanhao,305 x 205 x 175 mm 
+Fantasy Pro II,FDM (Fused Deposition Modeling),ABS,EcubMaker,300 x 200 x 200 mm 
+Uncia DLP,DLP (Digital Light Processing),Resin,Uncia,102 x 77 x 170 mm 
+Zcorp,CJP (ColorJet Printing),Full-color sandstone (VisiJet PXL),3D Systems,254 x 381 x 203 mm 
+X350pro,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +9 materials",German RepRap,350 x 200 x 210 mm 
+Delta Go,FDM (Fused Deposition Modeling),"PLA, ABS",Deltaprintr,81.3 x 81.3 x 127 
+Perfactory Micro EDU,DLP (Digital Light Processing),Resin,EnvisionTec,100 x 75 x 100 mm 
+LittleRP,SLA (Stereolithography),"Resin, Flexible Resin",LittleRP,60 x 40 x 100 mm 
+Afinia H480,FDM (Fused Deposition Modeling),ABS,Afinia 3D,140 x 140 x 135 mm 
+Fortus 360mc,FDM (Fused Deposition Modeling),"ABS-M30, Polycarbonate (PC)",Stratasys,355 x 254 x 254 mm 
+iPro 8000,SLA (Stereolithography),Resin,3D Systems,650 x 750 x 550 mm 
+Viper SI2,SLA (Stereolithography),Resin,3D Systems,250 x 250 x 250 mm 
+Eden 250,PolyJet and PolyJetMatrix,"Vero, Durus",Stratasys,250 x 250 x 200 mm 
+3DP1000,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",3DP,1000 x 1000 x 500 mm 
+Rostock,FDM (Fused Deposition Modeling),"PLA, Wood PLA, Chameleon PLA (Thermochromic) and +1 materials",RepRap,141 x 141 x 400 mm 
+Ultimaker 3,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +14 materials",Ultimaker,215 x 215 x 200 mm 
+Accucraft i250+,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS and +2 materials",Divide by zero technology,300 x 250 x 200 mm 
+Accucraft i250D,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS and +2 materials",Divide by zero technology,200 x 250 x 200 mm 
+FlyingBear 3D Printer P902,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +4 materials",FlyingBear,220 x 220 x 280 mm 
+Finder,FDM (Fused Deposition Modeling),"PLA, Rubber-like (TPU)",FlashForge,140 x 140 x 140 mm 
+BigBox Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",E3D,300 x 200 x 300 mm 
+TRIUM DELTA 3D PRINTER,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",TRIUM,155 x 155 x 220 mm  
+SheePEM CNC machine,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",SheePEM,390 x 180 x 200 mm 
+Wanhao Duplicator 6,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +4 materials",Wanhao,200 x 200 x 180 mm 
+Wanhao Duplicator I3 PLUS,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +11 materials",Wanhao,200 x 200 x 180 mm 
+Araknia Bolt,FDM (Fused Deposition Modeling),"PLA, PETG",Stampanti 3D,100 x 100 x 130 mm 
+Araknia Prusa i3,FDM (Fused Deposition Modeling),"PLA, ABS",Stampanti 3D,210 x 210 x 210 mm 
+Araknia Prusa i3 A2,FDM (Fused Deposition Modeling),"PLA, ABS",Stampanti 3D,200 x 200 x 200 mm 
+Araknia Two Rails,FDM (Fused Deposition Modeling),"PLA, ABS, PETG",Stampanti 3D,210 x 210 x 210 mm 
+Araknia Mycra,FDM (Fused Deposition Modeling),PLA,Stampanti 3D,100 x 100 x 130 mm 
+TEVO Tarantula I3,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +7 materials",TEVO,200 x 200 x 200 mm 
+Lulzbot Taz 6,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +19 materials",LulzBot,280 x 280 x 250 mm 
+Qidi Tech I,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +13 materials",Qidi Tech,230 x 150 x 150 mm 
+BigRep One,FDM (Fused Deposition Modeling),"PLA, FLEX (Elastic TPE), Rubber-like (TPU) and +1 materials",BigRep,1005 x 1005 x 1005 mm 
+Apium P 155,FDM (Fused Deposition Modeling),Ultem (PEI) 1010,Apium,145 x 135 x 148 mm 
+Afinia H800+,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE)",Afinia,255 x 205 x 205 mm 
+DTM Sinterstation 2500 Plus,SLS (Selective Laser Sintering),"DuraForm PA Plastic, DuraForm GF, Stainless Steel 420 Bronze Infused",DTM,380 x 330 x 450 mm 
+BoXZY,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",BoXZY,165 x 165 x 165 mm. 
+FolgerTech FT5,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +8 materials",Folger Tech,300 x 300 x 400 mm 
+Northworks 300x,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Northworks Automation,300 x 300 x 300 mm 
+Northworks 600x,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Northworks Automation,600 x 600 x 900 mm 
+da Vinci Mini,FDM (Fused Deposition Modeling),PLA,XYZPrinting,150 x 150 x 150 mm 
+BEETHEFIRST,FDM (Fused Deposition Modeling),PLA,BEEVERYCREATIVE,190 x 135 x 125 mm 
+BEETHEFIRST+,FDM (Fused Deposition Modeling),"PLA, Nylon, FLEX (Elastic TPE)",BEEVERYCREATIVE,190 x 135 x 125 mm 
+HelloBEEPrusa,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +3 materials",BEEVERYCREATIVE,185 x 200 x 190 mm 
+Hephestos 2,FDM (Fused Deposition Modeling),"PLA, Bronze PLA, Wood PLA",BQ,210 x 297 x 220 mm 
+UP mini,FDM (Fused Deposition Modeling),"PLA, ABS",UP3D,120 x 120 x 120 mm 
+Dragon,FDM (Fused Deposition Modeling),"PLA, ABS, PETG  and +1 materials",WINBO,610 x 458 x 610 mm 
+Cetus,FDM (Fused Deposition Modeling),"PLA, Heat Treatable PLA (HTPLA)",Cetus3D,180 x 180 x 180 mm 
+Duplicator D7,DUP (LCD-based Direct UV Printing),"Resin, Tough Resin, Flexible Resin",Wanhao,120 x 68 x 200 mm 
+Formbot T Rex 2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Formbot,400 x 400 x 700 mm 
+Renkforce RF1000,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",Conrad,230 x 245 x 200 mm 
+DiscoEasy200,FDM (Fused Deposition Modeling),PLA,DAGOMA,200 x 200 x 200 mm 
+Scalar XL,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",3DModularSystems,400 x 300 x 350 mm 
+BQ Witbox,FDM (Fused Deposition Modeling),"PLA, ABS, Bronze PLA and +1 materials",BQ,297 x 210 x 200 mm 
+Creality CR-10,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +21 materials",Creality,300 x 300 x 400 mm 
+Maker Select V2,FDM (Fused Deposition Modeling),"PLA, ABS, Bronze PLA and +5 materials",Monoprice,205 x 205 x 180 mm 
+Cubicon 3DP-310F,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE)",Cubicon,240 x 190 x 200 mm 
+Cubicon 3DP-110DS,DLP (Digital Light Processing),"Resin, Castable Resin",Cubicon,100 x 75 x 145 mm 
+Select Mini,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",Monoprice,120 x 120 x 120 mm 
+One Up,FDM (Fused Deposition Modeling),PLA,QU-BD,100 x 100 x 125 mm 
+The Bibo 2 Touch,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +3 materials",Bibo,214 x 186 x 160 mm 
+Prism Pro,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS",3Dquality,280 x 280 x 800 mm 
+Anet A8,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +9 materials",Anet 3D,220 x 220 x 240 mm 
+Mytrix Dreamweaver 3735 Duo,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +3 materials",Mytrix Technology,200 x 200 x 300 mm 
+Robo 3D C2,FDM (Fused Deposition Modeling),"PLA, ABS, Bronze PLA",Robo 3D,127 x 127 x 152 mm 
+Robobeast 3D,FDM (Fused Deposition Modeling),PLA,Robobeast,300 x 320 x 385 mm 
+Dimension Duel Delta,FDM (Fused Deposition Modeling),"PLA, ABS",J Group Robotics,250 x 250 x 300 mm 
+MTW Create,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE)",Maker’s Tool Works,250 x 315 x 250 mm 
+Alunar M505,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",Alunar,220 x 220 x 240 mm 
+FLSUN Delta 20x20,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE)",FLSUN3D,127 x 127 x 300 mm 
+HE3D K200,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",RepRap,140 x 140 x 300 mm 
+Wombot Modus,FDM (Fused Deposition Modeling),"PLA, Bronze PLA, HIPS and +1 materials",Wombot,400 x 400 x 500 mm 
+UP mini 2,FDM (Fused Deposition Modeling),"PLA, ABS",Tiertime,120 x 120 x 120 mm 
+UP Plus 2,FDM (Fused Deposition Modeling),"PLA, ABS, Color-Blending PLA",Tiertime,140 x 140 x 135 mm 
+DWS Xfab,SLA (Stereolithography),"Resin, WaterClear Resin, Durable (PP-like) Resin and +3 materials",DWS LAB,128 x 128 x 180 mm 
+KREATOR Motion,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",3DKreator,200 x 200 x 190 mm 
+Vector 3,FDM (Fused Deposition Modeling),"PLA, ABS",Eaglemoss,140 x 140 x 135 mm 
+Afinibot A31,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Afinibot,300 x 300 x 400 mm 
+PrimaCreator P120,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS",3D Prima,120 x 120 x 120 mm 
+Stratasys F370,FDM (Fused Deposition Modeling),"PLA, ABS, ABS-M30",Stratasys,355 x 254 x 355 mm 
+JGAURORA Desktop 3D Printer,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",JGAURORA,280 x 280 x 180 mm 
+Tevo Little Monster,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +3 materials",TEVO,340 x 340 x 500 mm 
+Vector 3SP,SLA (Stereolithography),"Resin, Tough Resin, WaterClear Resin",EnvisionTec,300 x 200 x 275 mm 
+Perfactory Vida,SLA (Stereolithography),"Resin, Dental SG Resin",EnvisionTec,140 x 79 x 100 mm 
+Micro Plus Advantage,SLA (Stereolithography),"Resin, Castable Resin, Flexible Resin",EnvisionTec,65 x 40 x 100 mm 
+ProJet MJP 5600,MJP (MultiJet Printing),"VisiJet CE Elastomeric, VisiJet CR-WT, VisiJet CR-CL",3D Systems,518 x 381 x 300 mm 
+Creality CR-10-S5,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +25 materials",Creality,500 x 500 x 500 mm 
+ROBO 3D R2,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +13 materials",Robo 3D,200 x 200 x  254 mm 
+Moai,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin and +3 materials",Peopoly,130 x 130 x 180 mm 
+Witbox 2,FDM (Fused Deposition Modeling),"PLA, Bronze PLA, FLEX (Elastic TPE)",BQ,297 x 210 x 200 mm 
+STARTT 3D Printer,FDM (Fused Deposition Modeling),PLA,STARTT,140 x 120 x 130 mm 
+TronXY X1,FDM (Fused Deposition Modeling),"PLA, PETG",TronXY,150 x 150 x 150 mm 
+Julia Plus,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Fractalworks,210 x 250 x 260 mm 
+MAKEiT Pro L,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +9 materials",MakeIt,305 x 254 x 330 mm 
+MINGDA MD-6L,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",MINGDA,400 x 300 x 500 mm 
+UP Box Plus,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +7 materials",Tiertime,255 x 205 x 205 mm 
+Anycubic i3 Mega,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +18 materials",Anycubic,210 x 210 x 205 mm 
+Impressora 3D Stella,FDM (Fused Deposition Modeling),"PLA, Nylon, FLEX (Elastic TPE)",Boa Impressão 3D,200 x 200 x 180 mm 
+Fullscale XT Plus,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Mankati,260 x 260 x 300 mm 
+Additive AM1,FDM (Fused Deposition Modeling),"PLA, ABS, Polycarbonate (PC)",Cosine,1075 x 800 x 850 mm 
+Liquid Crystal LC10,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin",Photocentric 3D,200 x 100 x 200 mm 
+Liquid Crystal LCHR,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin",Photocentric 3D,196 x 147 x 250 mm 
+Liquid Crystal LCPro,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin",Photocentric 3D,470 x 240 x 340 mm 
+Creality Ender 4,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE)",Creality,220 x 220 x 300 mm 
+CTC i3 pro B,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",CTC LTD,200 x 200 x 180 mm 
+Prusa i3 MK2 Multi Material,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +17 materials",Prusa 3D,250 x 210 x 200 mm 
+LeapFrog Bolt Pro,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",LeapFrog,300 x 320 x 205 mm 
+TronXY X3 / X3A,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",TronXY,220 x 220 x 300 mm 
+Anet A6,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +5 materials",Anet 3D,220 x 220 x 250 mm 
+Anet A2,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +1 materials",Anet 3D,220 x 220 x 220 mm 
+FLSUN 3D Large Area,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +5 materials",FLSUN3D,260 x 260 x 350 mm 
+SLM 280 HL,SLS (Selective Laser Sintering),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Aluminium Alloy AlSi12",SLM Solutions,280 x 280 x 365 mm 
+SLM125,SLS (Selective Laser Sintering),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Aluminium Alloy AlSi12",SLM Solutions,125 x 125 x 125 
+Markforged X7,FDM (Fused Deposition Modeling),"Carbon Fiber, Fiberglass, Onyx",Markforged,330 x 270 x 200 mm 
+Onyx One,FDM (Fused Deposition Modeling),Onyx,Markforged,320 x 132 x 154 mm 
+Onyx Pro,FDM (Fused Deposition Modeling),"Fiberglass, Onyx",Markforged,320 x 132 x 154 mm 
+Sethi3D S3,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Sethi3D,270 x 270 x 320 mm 
+Sethi3D BB,FDM (Fused Deposition Modeling),"PLA, FLEX (Elastic TPE), PETG",Sethi3D,400 x 400 x 400 mm 
+Sethi3D AiP,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE)",Sethi3D,220 x 210 x 200 mm 
+X1000,FDM (Fused Deposition Modeling),"PVA, PLA, Wood PLA and +3 materials",German RepRap,1000 x 800 x 600 mm 
+X400 PRO,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +3 materials",German RepRap,390 x 400 x 320 mm 
+T-1000 UV 3D Printer,SLA (Stereolithography),Resin,G3D,179.2 x 134.4 x 300 mm 
+TronXY P802M,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +1 materials",TronXY,220 x 220 x 240 mm 
+GiziMate 130 Super Speed,SLA (Stereolithography),"Resin, Dental SG Resin, Flexible Resin",Gizmo 3D Printers,200 x 113 x 130 mm 
+GiziPro 130 Super Speed,SLA (Stereolithography),"Resin, Dental SG Resin, Flexible Resin",Gizmo 3D Printers,200 x 113 x 130 mm 
+GiziMax 430 Super Speed,SLA (Stereolithography),"Resin, Dental SG Resin, Flexible Resin",Gizmo 3D Printers,200 x 113 x 430 mm 
+Kossel,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Anycubic,180 x 180 x 300 mm
+Mlab Cusing,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Aluminium Alloy AlSi12",Concept Laser Machines,50 x 50 x 80 mm3
+Ultibots D300VS+,FDM (Fused Deposition Modeling),,Ultibots,290 x 445
+gMax 1.5 XT+,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",gCreate,406.4 x 406.4 x 533.4 mm 
+Zortrax M300,FDM (Fused Deposition Modeling),"PLA, ABS, ASA and +13 materials",Zortrax,300 x 300 x 300 mm 
+HP Jet Fusion 3D 4200,MJF (MultiJet Fusion Technology),"PA11 Nylon, HP PA-12, PA-12 with Glass Beads",HP,380 x 284 x 380 mm 
+Maker Ultimate,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +6 materials",Monoprice,200 x 200 x 175 mm 
+X-one,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +1 materials",Qidi Tech,140 x 140 x 140 mm 
+Mlab cusing 200R,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Aluminium Alloy AlSi12",Concept Laser Machines,100 x 100 x 100 mm 
+M1 cusing,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Aluminium Alloy AlSi12",Concept Laser Machines,250 x 250 x 250 mm 
+FlashForge Guider II,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +4 materials",FlashForge,250 x 280 x 300 mm 
+JGAURORA A-3(with LCD screen) Kit,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",JGAURORA,200 x 200 x 180 mm 
+ZONESTAR D805S,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +1 materials",ZONESTAR Creation,220 x 220 x 220 mm 
+Trinus,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +1 materials","Kodama, Inc.",120 x 125 x 100 mm 
+Ultimaker 2 Extended+,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",Ultimaker,223 x 223 x 305 mm 
+TronXY X5S,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +12 materials",TronXY,330 x 330 x 400 mm 
+TEVO Tornado,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +6 materials",TEVO,300 x 300 x 400 mm 
+Anet E10,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +1 materials",Anet 3D,220 x 270 x 300 mm 
+Makerbot Replicator +,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +1 materials",Makerbot,295 x 195 x 165 mm 
+Velleman K8200,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +4 materials",Velleman,200 x 200 x 200 mm 
+Z-Unlimited,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE) and +5 materials",Ultimaker,170 x 180 x 1800 mm
+da Vinci Color,FDM (Fused Deposition Modeling),3D Color-inkjet PLA,XYZPrinting,200 x 200 x 150 mm 
+NEVA,FDM (Fused Deposition Modeling),PLA,DAGOMA,180 x 180 x 200 mm 
+3Drag - 3D printer,FFF (Fused Filament Fabrication),"PVA, PLA, ABS",3Drag,200 x 200 x 200 mm
+SLA600,SLA (Stereolithography),"Resin, Tough Resin, Somos WaterShed XC 11122",ZRapid Tech,600 x 600 x 300 mm
+SLA450,SLA (Stereolithography),"Resin, Tough Resin, Somos WaterShed XC 11122",ZRapid Tech,450 x 450 x 300 mm
+SLA660,SLA (Stereolithography),"Resin, Tough Resin, Somos WaterShed XC 11122",ZRapid Tech,600 x 600 x 300 mm
+Creality Ender 2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Creality,150 x 150 x 200 mm
+Original Prusa i3 MK3,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +51 materials",Prusa 3D,250 x 210 x 210 mm 
+PowerSpec Ultra 3D Printer,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",PowerSpec,230 x 150 x 140 mm 
+Cetus MKII Extended,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",Cetus3D,180 x 180 x 280 mm 
+SIDL BIGBOX1500,FDM (Fused Deposition Modeling),PLA,SIDL,1400 x 900 x 800
+da Vinci 1.1 Plus,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +4 materials",XYZPrinting,200 x 200 x 200 mm 
+Ultimaker 3 Extended,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +15 materials",Ultimaker,215 x 215 x 300
+Zonestar P802CR2,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +1 materials",ZONESTAR Creation,220 x 220 x 220
+Select Mini V2,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +6 materials",Monoprice,120 x 120 x 120 mm
+FLSUN 3D Metal Frame Prusa i3,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +9 materials",FLSUN3D,300 x 300 x 420 mm
+Phrozen Make: LCD 3D Printer,DUP (LCD-based Direct UV Printing),Resin,Phrozen,120 x 68 x 140mm
+Snapmaker 3-in-1 3D Printer,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +12 materials",Snapmaker,125 x 125 x 125 mm 
+Cocoon Create Touchscreen 3D Printer HE161192,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +1 materials",WINPLUS,200 x 200 x 180mm.
+Cocoon Create Model Maker HE170703,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +1 materials",WINPLUS,200 x 200 x 180mm.
+Milkshake 3D,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin",Milkshake3D,288 x 162 x 160mm.
+D-Bot,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +18 materials",DIY,300 x 300 x 400 mm
+Pulse XE - NylonX 3D Printer,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +24 materials",MatterHackers,250 x 220 x 215 mm
+He3D K280 Mega Delta 3D Printer Kit,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",He3D,280 x 280 x 600 mm
+Original Prusa i3 MK2S,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +9 materials",Prusa 3D,250 x 210 x 200 mm
+Creality CR-10Mini,FDM (Fused Deposition Modeling),"PLA, ABS, PET and +1 materials",Creality,300 x 220 x 300 mm
+A5,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",JGAURORA,305 x 305 x 320 mm
+Photon,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Anycubic,115 x 65 x 155 mm
+Evo-Lizer,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Evo-Tech,270 x 200 x 210 mm
+B9 Core 530,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin and +2 materials",B9Creations,57.6 x 32.4 x 127 mm
+Fuse 1,SLS (Selective Laser Sintering),PA12 Nylon,Formlabs,165 x 165 x 320 mm 
+Lisa,SLS (Selective Laser Sintering),"PA12 Nylon, TPU powder, TPU Shore 45-56 A",Sinterit,150 x 200 x 150 mm 
+MP Mini Delta,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +2 materials",Monoprice,110 x 110 x 120 mm
+Obsidian,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +3 materials","Kodama, Inc.",120 x 120 x 120 mm 
+The MOOZ,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE)",DOBOT,130 × 130 × 130 mm
+CR-10-S4,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +2 materials",Creality,400 x 400 x 400 mm 
+Optimus Delta Printer,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Febtop Tech,240  x 240 x 300 mm
+Flashforge Hunter,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin",FlashForge,120 mm × 67.5 mm × 150 mm 
+The BLACKBELT 3D Printer,FDM (Fused Deposition Modeling),"PLA, ABS, PETG",BlackBelt 3D BV,340 × 340 ×  ∞ mm 
+Wanhao Duplicator 9/300,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",Wanhao,300 x 300 x 400 mm
+FLSUN-QQ,FDM (Fused Deposition Modeling),"PLA, ABS, Rubber-like (TPU)",FLSUN3D,260 x 260 x 370 mm
+Original Prusa i3 MK3 Multi Material,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +12 materials",Prusa 3D,250 x 210 x 210 mm 
+Micromake L2,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin",Micromake,108 x 68 x 200 mm
+miniFactory 3 Education,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +6 materials",Minifactory,150 x 150 x 150 mm
+Maker Select Plus,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +5 materials",Monoprice,200 x 200 x 180 mm 
+FELIX Pro 2 Touch,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +3 materials",FELIXprinters,237 x 244 x 235 mm
+Agnee P4,FDM (Fused Deposition Modeling),"PLA, ABS, Bronze PLA and +8 materials",Agnee,280 x 140 x 140 mm
+Creality Ender 3,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +20 materials",Creality,220 x 220 x 250 mm
+Sharebot 42,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Sharebot,250 x 220 x 200 mm
+CoreI3,FDM (Fused Deposition Modeling),PLA,Pxmalion,220 x 220 x 220 mm 
+M150,FDM (Fused Deposition Modeling),"PLA, ABS, Polycarbonate (PC) and +2 materials",Malyan,200 x 200 x 180 mm 
+CR-X,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",Creality,300 x 300 x 400 mm
+Chiron,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +5 materials",Anycubic,400 x 400 x 450 mm 
+B9Creator v1.2,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin and +2 materials",B9Creations,104 x 75 x 203 mm
+3D45,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Dremel,254 x 152 x 170 mm 
+S5,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +12 materials",Ultimaker,330 x 240 x 300 mm 
+Renkforce RF500,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS and +3 materials",Conrad,210 x 135 x 170 mm
+Zyyx+,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +3 materials",Zyyx,265 x 225 x 195 mm
+The BOX,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",BLB Industries,1500 x 1100 x 1500 mm
+Inventor,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +10 materials",FlashForge,228  x  150 x  160 mm 
+Original Prusa i3 MK2.5,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +6 materials",Prusa 3D,250 x 210 x 200 mm 
+Micro+,FDM (Fused Deposition Modeling),"PLA, HIPS, Wood PLA",M3D,109 x 114 x 117 mm 
+Promega,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS",M3D,388 x 388 x 388 mm 
+Crane,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",M3D,230 x 230 x 250 mm
+Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",M3D,177 x  177 x  190.5 mm 
+RoboxPro,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",CEL,210 x 300 x 400 mm
+Robox,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +2 materials",CEL,210 x 150 x 100 mm 
+Duplicator 5S,FDM (Fused Deposition Modeling),"PVA, PLA, ABS",Wanhao,305 x 205 x 575 mm
+Pro2 Plus,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +20 materials",Raise3D,305 x 305 x 605 mm 
+Funmat HT,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +8 materials",Intamsys,260 x 260 x 260 mm
+Metal X,ADAM,"Copper, A2 Tool Steel, D2 Tool Steel and +1 materials",Markforged,300 x 220 x 180 mm
+Flash,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS and +1 materials",TEVO,235 x 235 x 250 mm
+LAR100,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), LaserForm Ni718, Aluminium Alloy AlSi12",LAR Technologies,100 x 100 x 200 mm
+Ord Bot Hadron,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE) and +2 materials",RepRap,190 x 190 x 150 mm
+Adventurer 3,FDM (Fused Deposition Modeling),"PLA, ABS, Bronze PLA and +9 materials",FlashForge,150 x 150 x 150 mm
+Morgan Pro 2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Morgan 3D Printers,380 x 220 x 200 mm
+Morgan Mega 2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Morgan 3D Printers,720 x 450 x 600 mm
+Evolution,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Hypercube,300 x 300 x 300 mm
+Duplicator i3 Mini,FDM (Fused Deposition Modeling),"PLA, ABS, Rubber-like (TPU)",Wanhao,120 x 135 x 100 mm
+Raptor 2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Formbot,400 x 400 x 700 mm
+LD - 001,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin",Creality,120 x 70 x 120 mm
+Ucrea,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",Ucrea,380 x 260 x 320 mm
+S-Titanium Pro,SLM (Selective Laser Melting),"Stainless Steel 316L, 304 Stainless Steel",AuroraLabs,200 × 200 × 500 mm
+KINGS 650 Pro,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin",Kings 3D Printing,650 x 650 x 400 mm
+Phrozen Shuffle,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin and +1 materials",Phrozen,120 x 68 x 200 mm
+Phrozen Shuffle XL,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin",Phrozen,190 x 120 x 200 mm
+Slash Plus,SLA (Stereolithography),Resin,Uniz,192 x 120 x 200mm 
+Slash Pro,SLA (Stereolithography),Resin,Uniz,192 x 120 x 400 mm 
+Slash Plus UDP,SLA (Stereolithography),Resin,Uniz,192 x 120 x 200 mm 
+FT-6,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +13 materials",Folger Tech,720 x 350 x 400 mm
+Sigmax R19,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +10 materials",BCN3D,420 x 297 x 210 mm
+Extreme 2000,FDM (Fused Deposition Modeling),"PVA, PLA, Bronze PLA and +3 materials",Builder,700 x 700 x 1820 mm
+Mini Deluxe SLA,DLP (Digital Light Processing),"Resin, Castable Resin, Flexible Resin",Monoprice,120 x 70 x 200 mm
+Ender 3 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +26 materials",Creality,220 x 220 x 250 mm
+Craftbot XL,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +9 materials",CraftUnique,300 x 200 x 440 mm 
+Big60,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +5 materials",Modix,610 x 610 x 610 mm
+F170,FDM (Fused Deposition Modeling),"PLA, ABS, ASA",Stratasys,254 x 254 x 254 mm 
+SparkMaker,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Flexible Resin",SparkMaker,98 x 55 x 125 mm
+CR-10S Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +5 materials",Creality,300 x 300 x 400 mm
+X-Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Rubber-like (TPU)",Qidi Tech,230 x 150 x 150 mm
+Maker Pro Mk.1,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",Monoprice,300 x 300 x 400 mm
+Original Prusa i3 MK3S,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +45 materials",Prusa 3D,250 x 210 x 210 mm 
+Creality CR-10S,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE) and +8 materials",Creality,300 x 300 x 400 mm 
+X-MAX,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +5 materials",Qidi Tech,300 x 250 x 300 mm
+X-Plus,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +14 materials",Qidi Tech,270 x 200 x 200 mm 
+Duplicator D9 MK2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +6 materials",Wanhao,400 x 400 x 400 mm
+AM 400,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), LaserForm Ni718, Stainless Steel 316L and +1 materials",Renishaw,250 x 250 x 300 mm
+Inkspire,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin and +9 materials",Zortrax,74 x 132 x 175 mm 
+F430,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +14 materials",Creatbot,400 x 300 x 300 mm
+Kossel linear plus,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Anycubic,230 x 230 x 270 mm
+Rapid 200,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",FDM Finland,200 x 200 x 220 mm
+Rapid 400,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",FDM Finland,400 x 200 x 220 mm
+Creator 3,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +14 materials",FlashForge,290 x 210 x 205 mm
+Stacker S2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Stacker3D,390 x 315 x 525 mm
+S4,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Stacker3D,345 x 520 x 650 mm
+A10M Mix-color,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +3 materials",Geeetech,220 x 220 x 260 mm
+SLA600,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin",Wiiboox,600 x 600 x 400 mm
+SLA800,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin",Wiiboox,800 x 800 x 600 mm
+SLM280,SLM (Selective Laser Melting),"Stainless Steel 17-4 PH, Aluminium Alloy AlSi12, Stainless Steel 316L",Wiiboox,280 x 280 x 300 mm
+SLS300,SLS (Selective Laser Sintering),PA12 Nylon,Wiiboox,380 x 380 x 300 mm
+Original Prusa i3 MK3S MMU2S,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +11 materials",Prusa 3D,250 x 210 x 210 mm 
+S400,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Kelant,192 x 120 x 200 mm
+F410,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +12 materials",Fusion3,355 x 355 x 315 mm
+Ender 5,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +11 materials",Creality,220 x 220 x 300 mm
+D3 Pro Dual Extruder,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",HICTOP,300 x 300 x 400 mm
+Optimus C1,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Febtop Tech,300 x 300 x 300 mm
+Photon-S,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Anycubic,115 x 65 x 165 mm
+Sparkcube/CoreXY,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +8 materials",RepRap,300 x 300 x 280 mm
+CR20 PRO,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",Creality,220 x 220 x 250 mm
+Mini SLA,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin",Monoprice,121 x 68 x 180 mm
+Form 3,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin and +6 materials",Formlabs,145 x 145 x 185 mm
+Form 3L,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin and +9 materials",Formlabs,300 x 335 x 200 mm 
+M290,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, LaserForm Ni718 and +3 materials",EOS,250 x 250 x 325 mm 
+Kingroon,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE)",Kingroon,200 x 200 x 225 mm
+4Max Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",Anycubic,270 x 205 x 205 mm
+4Max,FDM (Fused Deposition Modeling),"PLA, ABS, Rubber-like (TPU)",Anycubic,210 x 210 x 300 mm
+Mars,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Flexible Resin and +6 materials",ELEGOO,120 x 68 x 155 mm 
+BLV mgn Cube,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +4 materials",RepRap,300 x 300 x 365 mm
+CR-10 Max,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +28 materials",Creality,450 x 450 x 470 mm
+3D-Drucker,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",3DConstructions,500 x 500 x 500 mm
+Elfin,DLP (Digital Light Processing),"Resin, Castable Resin, Dental SG Resin",NOVA3D,130 x 70 x 150 mm
+HiEHA-SQ1,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin",HIEHA,115 x 65 x 100 mm 
+Craftbot 3,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE) and +7 materials",CraftUnique,374 x 250 x 250 mm
+P1000,SLS (Selective Laser Sintering),"PA12 Nylon, Polyamide, PA11 Nylon",Prodways,300 x 300 x 300 mm 
+Predator,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS and +2 materials",Anycubic,370 x 370 x 455 mm
+Lisa Pro,SLS (Selective Laser Sintering),"PA12 Nylon, PA11 Nylon, TPU powder",Sinterit,150 x 200 x 260 mm 
+AGIL ISTA-3200W,PolyJet and PolyJetMatrix,"Standard acrylic Resin, Silicone Resin",Keyence,297 x 210 x 200 mm
+DIGITALWAX 029J,SLA (Stereolithography),"Resin, Castable Resin",DWS LAB,110 x 110 x 100 mm
+EPAX X10,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin and +7 materials",EPAX 3D,216 x 135 x 250 mm
+HIEHA-SQ3,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin",HIEHA,215 x 135 x 200 mm 
+SL1,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin",Prusa 3D,120 x 68 x 150 mm 
+Shadow 5.5 S,DLP (Digital Light Processing),"Resin, Castable Resin, Flexible Resin",Qidi Tech,115 x 65 x 150 mm
+ET4,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Anet 3D,220 x 220 x 250 mm
+Optimus P1,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Febtop Tech,600 x 600 x 1000 mm
+MINI,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +3 materials",Createbot,150 x 150 x 220 mm
+X5SA,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +1 materials",TronXY,330 x 330 x 400 mm
+X5ST-400,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",TronXY,400 x 400 x 400 mm
+X5SA-400,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",TronXY,400 x 400 x 400 mm
+Pro2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +8 materials",Raise3D,305 x 305 x 300 mm
+Sidewinder X1,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +8 materials",Artillery,300 x 300 x 400 mm
+Transform,DUP (LCD-based Direct UV Printing),"ASA, Resin, Castable Resin and +5 materials",Phrozen,292 x 165 x 400 mm 
+MINI,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +5 materials",Prusa 3D,180 x 180 x 180 mm 
+MOIRA DF3,FDM (Fused Deposition Modeling),"PLA, ABS, PET",DediBot,150 x 150 x 175 mm
+Zaribo 320 MK3s Rel 3,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Zaribo,400 x  460 x 550 mm
+Ceto,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Wombot,250 x 250 x 380 mm
+Skeletus,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Wombot,400 x 400 x 500 mm
+Cubus,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Wombot,500 x 500 x 500 mm
+Sirius,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Aurarum,800 x 475 x 1000 mm
+UNIONTECH SLA RS PRO 600,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin and +5 materials",Europac 3D,600 x 600 x 500 mm
+UNIONTECH SLA RS PRO 800,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin and +5 materials",Europac 3D,800 x 800 x 550 mm
+HT1001P,SLS (Selective Laser Sintering),"PA12 Nylon, PA-12 with Glass Beads",Farsoon Technologies,1000 x 500 x 450 mm
+403P,SLS (Selective Laser Sintering),"PA12 Nylon, TPU powder, PA-12 with Glass Beads",Farsoon Technologies,400 x 400 x 450 mm
+252P,SLS (Selective Laser Sintering),"PA12 Nylon, TPU powder, PA-12 with Glass Beads",Farsoon Technologies,250 x 250 x 320 mm
+eForm,SLS (Selective Laser Sintering),"PA12 Nylon, TPU powder, PA-12 with Glass Beads",Farsoon Technologies,250 x 250 x 320 mm
+Sv01,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Sovol3d,280 x 240 x 300 mm
+Ender 5 Plus,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +19 materials",Creality,350 x 350 x 400 mm
+EPAX X1,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",EPAX 3D,115 x 65 x 155 mm
+A8 PLUS,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE)",Anet 3D,300 x 300 x 350 mm
+Snapmaker 2 A150,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Snapmaker,160 x 160 x 145 mm 
+Snapmaker 2 A250,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Snapmaker,230 x 250 x 235 mm 
+Snapmaker 2 A350,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Snapmaker,320 x 350 x 330 mm 
+Light 215 Pro,DLP (Digital Light Processing),"Resin, Tough Resin, Flexible Resin",Wiiboox,215 x 135 x 200 mm
+FT-I3 Mega,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Folger Tech,300 x 300 x 400 mm 
+Mars Pro,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",ELEGOO,120 x 68 x 155 mm 
+LK4 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Longer,220 x 220 x 250 mm
+LD-002R,DUP (LCD-based Direct UV Printing),"Resin, Tough Resin, Flexible Resin and +4 materials",Creality,119 x 65 x 160 mm
+Shuffle LITE,DUP (LCD-based Direct UV Printing),"Resin, Tough Resin, Flexible Resin",Phrozen,120  x 68 x 170 mm
+S400-S,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Kelant,192 x 120 x 200 mm
+SLM 500,SLM (Selective Laser Melting),"Stainless Steel 316L, Titanium Ti64, Aluminium AlSi10Mg",SLM Solutions,500 x 280 x 365 mm 
+SLM 280,SLM (Selective Laser Melting),"Stainless Steel 316L, Aluminium AlSi10Mg",SLM Solutions,280 x 280 x 365 mm 
+MJF 5200,MJF (MultiJet Fusion Technology),"PA12 Nylon, Polyamide, PA11 Nylon",HP,380 x 284 x 380 mm 
+MJF 580,MJF (MultiJet Fusion Technology),PA12 Nylon,HP,332 x 190 x 248 mm 
+Method X,FDM (Fused Deposition Modeling),"PLA, ABS, PETG",Makerbot,190 x 190 x 196 mm 
+Orange 30,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Longer,120 x 68 x 170 mm
+gMax 2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",gCreate,457 x 457 x 609 mm 
+Envision One cDLM,DLP (Digital Light Processing),"Resin, ABS-like Resin, Dental LT Resin",EnvisionTec,180 x 101 x 85 mm 
+CR-20,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Creality,220 x 220 x 250 mm
+3D40 Flex,FDM (Fused Deposition Modeling),"PLA, ABS, FLEX (Elastic TPE)",Dremel,255 x 155 x 170 mm 
+Mega X,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",Anycubic,300 x 300 x 305 mm
+The Prism,DUP (LCD-based Direct UV Printing),Resin,Beam 3D,120 x 70 x 150 mm 
+Jet Fusion 540,MJF (MultiJet Fusion Technology),PA12 Nylon,HP,332 x 190 x 248 mm 
+S5 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +7 materials",Ultimaker,330 x 240 x 300 mm 
+S3,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +4 materials",Ultimaker,230 x 190 x 200 mm 
+Tarantula Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",TEVO,235 x 235 x 250 mm 
+Michelangelo,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",TEVO,150 x 150 x 150 mm
+Nereus,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",TEVO,320 x 320 x 400 mm
+Phenom,SLA (Stereolithography),Resin,Peopoly,276 x 155 x 400 mm
+Noir,SLA (Stereolithography),Resin,Peopoly,293.76 x 165.24 x 400 mm
+L,SLA (Stereolithography),Resin,Peopoly,345.6 x 194.4 x 400 mm
+M300 Plus,LPD (Layer Plastic Deposition),"PLA, ABS, Wood PLA and +2 materials",Zortrax,300 x 300 x 300 mm 
+Inventure,LPD (Layer Plastic Deposition),"PLA, ABS, Wood PLA and +9 materials",Zortrax,135 x 135 x 130 mm 
+ET4-X,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Anet 3D,220 x 220 x 250 mm
+ET4 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Anet 3D,220 x 220 x 250 mm
+ET5,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Anet 3D,300 x 300 x 400 mm
+N4,DUP (LCD-based Direct UV Printing),Resin,Anet 3D,120 x 65 x 138 mm
+CR-5 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creality,300 x 225 x 380 mm
+CP-01,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creality,200 x 200 x 200 mm
+LD-003,DUP (LCD-based Direct UV Printing),Resin,Creality,192 x 120 x 230 mm
+CR-100,FDM (Fused Deposition Modeling),PLA,Creality,100 x 100 x 80 mm
+CR-3040,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creality,300 x 300 x 420 mm
+DP-001,DUP (LCD-based Direct UV Printing),Resin,Creality,80 x 60 x 140 mm
+T1250,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Tractus3D,350 x 350 x 600 mm
+GENIUS,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Artillery,220 x 220 x 250 mm
+Mega Zero,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Anycubic,220 x 220 x 250 mm
+E2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +22 materials",Raise3D,330 x 240 x 240 mm 
+Big-120X,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Modix,1200 x 600 x 660 mm
+Voxel MP,FDM (Fused Deposition Modeling),,Monoprice,150 x 150 x 150 mm 
+C100 EASY,SLA (Stereolithography),"Aluminium Nitride, Silicon Nitride, Silicore and +5 materials",3DCeram,100 x 100 x 150 mm
+C900 FLEX,SLA (Stereolithography),"Aluminium Nitride, Silicon Nitride, Silicore and +5 materials",3DCeram,300 x 300 x 100 mm
+C3600 ULTIMATE,SLA (Stereolithography),"Aluminium Nitride, Silicon Nitride, Silicore and +5 materials",3DCeram,600 x 600 x 300 mm
+NXE 400,DUP (LCD-based Direct UV Printing),"Resin, Tough Resin, Flexible Resin",Nexa3D,280 x 165 x 400 mm 
+Hands 2S,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Tenlog 3D,220 x 220 x 250 mm
+Hands 2 Multi Color,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +3 materials",Tenlog 3D,220 x 220 x 250 mm
+TL-D3 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +10 materials",Tenlog 3D,300 x 300 x 350 mm
+TL-D3S Dual Nozzle,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Tenlog 3D,300 x 300 x 400 mm
+TL-D5,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Tenlog 3D,500 x 500 x 500 mm
+TL-D6,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Tenlog 3D,600 x 600 x 600 mm
+TL-DLP,DLP (Digital Light Processing),"Resin, Tough Resin, Flexible Resin",Tenlog 3D,128 x 80 x 100 mm
+XY-2 PRO,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",TronXY,255 x 255 x 260 mm
+U30 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Rubber-like (TPU)",Alfawise,220 x 220 x 250 mm
+Photon Zero,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Anycubic,97 x 54 x 150 mm
+Kumitsu KL9,DUP (LCD-based Direct UV Printing),"Resin, Tough Resin, Flexible Resin",SainSmart,120 x  192 x 250 mm 
+VORON2.2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",RepRap,300 x 300 x 500 mm
+RailCore II,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +3 materials",RepRap,300 x 300 x 330 mm
+FabPro 1000,DLP (Digital Light Processing),"FabProTough, FabProProto, FabProFlexible",3D Systems,125 x 70 x 120 mm 
+S8,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +4 materials",SUNLU,310 x 310 x 400 mm
+CraftBot Flow IDEX,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",CraftUnique,425 x 250 x 250 mm
+FELIX Pro 3 Touch,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",FELIXprinters,237 x 244 x 235 mm
+Gear Version2,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +1 materials",ZYLtech,300 x 300 x 400 mm
+Light 130,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Wiiboox,130 x 70 x 180 mm
+F160,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creatbot,160 x 160 x 200 mm
+Q5,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",FLSUN3D,200 x 200 x 200 mm
+C250,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Jariwala Robotics,250 x 250 x 350 mm
+C350,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Jariwala Robotics,350 x 350 x 450 mm
+C450,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Jariwala Robotics,450 x 450 x 550 mm
+C550,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Jariwala Robotics,550 x 550 x 650 mm
+Sonic Mini,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Phrozen,120 x 68 x 130 mm
+Sonic XL 4K,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Phrozen,120 x 190 x 200 mm
+CR-10 V2,FDM (Fused Deposition Modeling),"PLA, ABS, HIPS and +10 materials",Creality,300 x 300 x 400 mm
+Ender-3 V2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +10 materials",Creality,220 x 220 x 250 mm
+SK-Go²,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",SecKit,310 x 310 x 350 mm
+Delta WASP 3MT INDUSTRIAL 4.0,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Wasp3d,1000 x 1000 x 1200 mm
+CR-6 SE,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +3 materials",Creality,235 x 235 x 250 mm
+S-BOX,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Qidi Tech,215 x 130 x 200 mm
+P802E,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",TronXY,220 x 220 x 210 mm
+Photon Mono,DUP (LCD-based Direct UV Printing),"Resin, Tough Resin, Flexible Resin",Anycubic,130 x 80 x 165 mm
+Photon Mono X,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Anycubic,192 x 120 x 245 mm
+Photon Mono SE,DUP (LCD-based Direct UV Printing),"Resin, Tough Resin, Flexible Resin",Anycubic,130 x 78 x 160 mm
+Mega S,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Anycubic,210 x 210 x 205 mm
+Mega Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Anycubic,210 x 210 x 205 mm
+HBD-80,SLM (Selective Laser Melting),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Stainless Steel 316L",HBD,120 x 120 x 80 mm
+HBD-100,SLM (Selective Laser Melting),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Stainless Steel 316L",HBD,105 x 105 x 100 mm
+HBD-150,SLM (Selective Laser Melting),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Stainless Steel 316L",HBD,159 x 159 x 100 mm
+HBD-200,SLM (Selective Laser Melting),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Stainless Steel 316L",HBD,270 x 170 x 120 mm
+HBD-280,SLM (Selective Laser Melting),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Stainless Steel 316L",HBD,250 x 250 x 300 mm
+HBD-350,SLM (Selective Laser Melting),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Stainless Steel 316L",HBD,325 x 325 x 400 mm
+HBD-500,SLM (Selective Laser Melting),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Stainless Steel 316L",HBD,400 x 435 x 435 mm
+HBD-1000,SLM (Selective Laser Melting),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Stainless Steel 316L",HBD,600 x 600 x 1000 mm
+x500pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",German RepRap,500 x 400 x 450 mm
+Bene 4,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",NOVA3D,130 x 70 x 150 mm
+220 MK3s,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Zaribo,250 x 210 x 210 mm
+EPAX X1K,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",EPAX 3D,130.56 x 82.62 x 155 mm
+Sonic Mini 4K,DUP (LCD-based Direct UV Printing),"Resin, Tough Resin, Flexible Resin",Phrozen,130 x 73 x 130 mm
+D600,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creatbot,600 x 600 x 600 mm
+3D40,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Dremel,255 x 155 x 170 mm
+FLOW IDEX XL,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",CraftUnique,425 x 250 x 500 mm 
+Mars 2 Pro,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",ELEGOO,129 x 80 x 160 mm 
+Flyingbear Ghost 5,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",FlyingBear,255 x 210 x 210 mm
+MfgPro230 xS,SLS (Selective Laser Sintering),"H13 Tool Steel, PA12 Nylon, HP PA-12",XYZPrinting,230 x 230 x 230 mm 
+A20M Mix-color,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Geeetech,255 x 255 x 255 mm
+Method Carbon Fiber Edition,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +10 materials",Makerbot,190 x 190 x 196 mm
+Saturn,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",ELEGOO,192 x 120 x 200 mm
+Mars C,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",ELEGOO,120 x 68 x 155 mm
+EPAX X133,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",EPAX 3D,292 x 165 x 400 mm
+EPAX X156,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",ELEGOO,345 x 194 x 400 mm
+Thinker S,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Eryone,300 x 300 x 400 mm
+Thinker SE,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Eryone,300 x 300 x 400 mm
+ER-20,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Eryone,250 x 220 x 200 mm
+K3,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MINGDA,119 x 67 x 160 mm
+XRIZE,FDM (Fused Deposition Modeling),"PLA, ABS, Carbon Fiber",Rize,310 x 200 x 200 mm
+3Di - D300,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",3Deometry,300 x 300 x 300 mm
+3Di-NoisyBot,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",3Deometry,180 x 180 x 250 mm
+LD-002H,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Creality,130 x 82 x 160 mm
+Guider I,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",FlashForge,250 x 250 x 200 mm
+Mars,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",NOVA3D,130 x 70 x 150 mm
+B1,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",BIQU,235 x 235 x 270 mm
+Vivedino Troodon,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",RepRap,300 x 300 x 400 mm
+UP300,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Tiertime,205 x 255 x 225 mm 
+X5,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Tiertime,180 x 230 x 200 mm 
+Extreme 1500 PRO,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Builder,1100 x 500 x 820 mm
+MINGDA D3 PRO,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",MINGDA,320 x 320 x 400 mm
+Duplicator 12/230,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Wanhao,230 х 230 х 250 mm
+Orange 10,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Longer,98 x 55 x 140 mm
+SHARK,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",LOTMAXX,235 x 235 x 265 mm
+SC-10,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",LOTMAXX,235 x 235 x 280 mm
+Ender-6,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Creality,250 x 250 x 400 mm
+STUDIO G2,FDM (Fused Deposition Modeling),"PVA, PLA, ABS and +4 materials",BigRep,1000 x 500 x 500 mm
+CaribouDuet,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +2 materials",Caribou3d,250 x 210 x 220 mm
+RenAM 500E,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), Aluminium Alloy AlSi12, Stainless Steel 316L",Renishaw,245 x 245 x 335 mm
+A20,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Geeetech,250 x 250 x 250 mm
+Ender-3 Max,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +2 materials",Creality,300 x 300 x 340 mm
+T76,SCP (Smooth Curvature Printing),Wax-like Resin,Solidscape,152 x 152 x 101 mm
+Figure 4 Standalone,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin",3D Systems,124.8 x 70.2 x 196 mm 
+Mars 2,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",ELEGOO,129 x 80 x 150 mm
+ARTIST-D,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",JGMaker,310 x 310 x 350 mm
+Deltacomb,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",RepRap,190 x 190 x 230 mm
+LK5 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Longer,300 x 300 x 400 mm
+LK1,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Longer,300 x 300 x 400 mm
+AM250,SLM (Selective Laser Melting),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Aluminium Alloy AlSi12",Renishaw,250 x 250 x 365 mm
+RenAM 500M,DMLS (Direct Metal Laser Sintering),"Cobalt-Chrome (CoCr), Stainless Steel 17-4 PH, Aluminium Alloy AlSi12 and +1 materials",Renishaw,250 x 250 x 350 mm
+E10,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",EPAX 3D,192 x 120 x 250 mm
+30M,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Hyrel3D,225 x 200 x 200 mm
+X5SA-500 PRO,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",TronXY,500 x 500 x 600 mm
+S500 Mono,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Kelant,192 x 120 x 200 mm 
+IBEE,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Uniz,190 x 119 x 203 mm 
+Proxima 6,DUP (LCD-based Direct UV Printing),"PC-ABS, Polycarbonate (PC), Resin and +8 materials",Voxelab,130 x 82 x 155 mm
+Aquila,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Voxelab,220 x 220 x 250 mm
+AON-M2,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +5 materials",AON3D,450 x 450 x 640 mm
+Daedalus,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Project R3D,310 x 300 x 345 mm
+VORON 0,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",RepRap,120 x 120 x 120 mm
+VORON V2.4,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +11 materials",RepRap,200 x 200 x 200 mm
+Large-scale Custom Printer,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",RepRap,800 x 400 x 400 mm
+ProJet DP 3500,MJP (MultiJet Printing),VisiJet M3 Dentcast,3D Systems,298 x 185 x 203 mm
+P220,FDM (Fused Deposition Modeling),"PLA, ABS, PC-ABS and +5 materials",Apium,205 x 155 x 150 mm
+LC Magna,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Photocentric 3D,510 x 280 x 350 mm 
+ALFA-150D,"3DP (3D Printing, Powder Bed and Inkjet Head 3D Printing, Plaster-based 3D Printing)","Cobalt-Chrome (CoCr), Stainless Steel 316L, Aluminium AlSi10Mg",Additive Laser Technology,150 х 150 х 180 mm
+Alfa-280,"3DP (3D Printing, Powder Bed and Inkjet Head 3D Printing, Plaster-based 3D Printing)","Cobalt-Chrome (CoCr), Stainless Steel 316L, Aluminium AlSi10Mg",Additive Laser Technology,280 х 280 х 300 mm
+Hornet,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Artillery,220 x 220 x 250 mm
+Fortus 200mc,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Stratasys,203 x 203 x 305 mm 
+SV02,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Sovol3d,280 x 240 x 300 mm
+Ender 5 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Creality,220 x 220 x 300 mm
+Sapphire Plus,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Twotrees,310 x 310 x 350 mm
+KUKA KR 60,FDM (Fused Deposition Modeling),"PLA, ABS, PETG  and +1 materials",RobotWorx,2000 x 2000 x 3000 mm
+Delta WASP 2040 INDUSTRIAL X,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +7 materials",Wasp3d,200 x 200 x 400 mm
+FUNMAT PRO 410,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +6 materials",Intamsys,305 x 305 x 406 mm 
+J55,PolyJet and PolyJetMatrix,"Vero, Tango (Rubber-like material), Bio-compatible (MED610)",Stratasys,140 x 200 x 190 mm 
+SV03,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +7 materials",Sovol3d,350 x 350 x 400 mm
+Creator Max 2,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",FlashForge,200 x 148 x 150 mm 
+Duplicator D12/500,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Wanhao,500 x 500 x 500 mm
+CR-10 Smart,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creality,300 x 300 x 400 mm
+PRO,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon",Zyyx,260 x 225 x 200 mm
+Massivit 5000,GDP (Gel Dispensing Printing),,MASSIVit 3D,1450 x 1110 x 1800 mm 
+M200 Plus,LPD (Layer Plastic Deposition),"PLA, ABS, Nylon and +10 materials",Zortrax,200 x 200 x 180 mm 
+Sonic Mighty 4K,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Phrozen,200 x 125 x 220 mm
+Original Prusa i3 MK3S+,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +39 materials",Prusa 3D,250 x 210 x 210 mm 
+Raptor,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",BRESSER,100 x 105 x 100 mm
+Tina 2,FDM (Fused Deposition Modeling),PLA,WEEDO 3D,100 x 105 x 100 mm
+Cadet,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Monoprice,100 x 105 x 100 mm
+3DPrintMill CR-30,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creality,200 x 170 x 1000 mm
+Vyper,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Anycubic,245 x 245 x 260 mm
+Voron 1,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",RepRap,200 x 200 x 200 mm
+Original Prusa SL1S,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Prusa 3D,127 x 80 x 150 mm
+Advance 255,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,255 x 235 x 190 mm
+Advance 205,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,205 x 185 x 190 mm
+Profession 250,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,250 x 140 x 190 mm
+Profession 120,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,120 x 67 x 190 mm
+Prime 150,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,150 x 85 x 120 mm
+Prime 110,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,110 x 62 x 120 mm
+Hyper 125,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,125 x 70 x 120 mm
+Hyper 80,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,80 x 45 x 120 mm
+Hyper 50,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,57 x 32 x 120 mm
+Ultra 150,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,150 x 85 x 120 mm
+Ultra 125,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,125 x 70 x 120 mm
+Ultra 100,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,102 x 58 x 120 mm
+Ultra 80,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,80 x 45 x 120 mm
+Ultra 50,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",MiiCraft,57 x 32 x 120 mm
+Solidscape S350,SCP (Smooth Curvature Printing),Wax-like Resin,Solidscape,152.4 x 152.4 x 101.6 mm
+T22 Max,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",TOP 3D,300 x 300 x 250 mm
+T22 classic,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",TOP 3D,220 x 220 x 250 mm
+T22 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",TOP 3D,220 x 220 x 250 mm
+T22 Max Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",TOP 3D,300 x 300 x 250 mm
+T32,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",TOP 3D,300 x 200 x 200 mm
+PT1000,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Arcelik,150 x 150 x 150 mm
+VORON Switchwire,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",RepRap,300 x 300 x 300 mm
+Mars 3,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",ELEGOO,90 x 143 x 175 mm
+Tycoon Max,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Kywoo3D,300 x 300 x 230 mm
+Tycoon,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Kywoo3D,240 x 240 x 240 mm
+PEEK-300,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +8 materials",Creatbot,300 x 300 x 400 mm
+Proxima 8.9,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Voxelab,192 x 120 x 200 mm
+i-fast,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Qidi Tech,330 x 250 x 320 mm
+HALOT-ONE,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Creality,127 x 80 x 160 mm
+Cetus MK3 Extended Deluxe,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Cetus3D,180 x 280 x 180 mm
+Sonic Mega 8K,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Phrozen,330 x 185 x 400 mm
+Creative 2 SW,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +5 materials",Magnum,235 x 170 x 180 mm
+Sermoon D1,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creality,280 x 260 x 310 mm
+A150,FDM (Fused Deposition Modeling),"Polycarbonate (PC), Ultem (PEI) 1010, Ultem (PEI) 9085 and +1 materials",Orion AM,150 x 150 x 150 mm
+M150,FDM (Fused Deposition Modeling),,Orion AM,150 x 150 x 150 mm
+AMCELL 8300,ADAM,"PLA, ABS, Nylon and +12 materials",Triditive,300 x 300 x 350 mm
+AMCELL 1400,ADAM,"PLA, ABS, Nylon and +12 materials",Triditive,450 x 400 x 500 mm
+One,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",iFactory3D,290 x 200 x 1000 mm
+Two Trees Sappheiros PRO High Precision,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Usongshine,235 x 235 x 235 mm
+Cambrian Pro,FDM (Fused Deposition Modeling),,Atomstack,235 x 235 x 250 mm
+Cambrian Max,FDM (Fused Deposition Modeling),,Atomstack,320 x 330 x 380 mm
+Adventurer 4,FDM (Fused Deposition Modeling),"PLA, ABS, Polycarbonate (PC) and +1 materials",FlashForge,220 x 200 x 250 mm
+Ender-7,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creality,250 x 250 x 300 mm
+CR-200B,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creality,200 x 200 x 200 mm
+Nano,FDM (Fused Deposition Modeling),,Polaroid,119 x 119 x 119 mm 
+INDUSTRY F340,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +5 materials",3DGence,260 x 300 x 340 mm
+HALOT-SKY,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Creality,192 x 120 x 200 mm
+NEPTUNE 2,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",ELEGOO,220 x 220 x 250 mm
+ET5X,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Anet 3D,300 x 300 x 400 mm
+SATURN S,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",ELEGOO,196 x 122 x 210 mm
+Sinterit S2,SLS (Selective Laser Sintering),"PA12 Nylon, TPU powder",Sinterit,130 x 130 x 360 mm
+ONJON 2.0,SLS (Selective Laser Sintering),PA12 Nylon,3D Bistro,300 x 300 x 450 mm
+MAX X 35,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin",Asiga,67.2 x 38 x 76 mm 
+Ender-3 S1 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creality,220 x 220 x 270 mm
+Ender-3 S1,FDM (Fused Deposition Modeling),,Creality,220 x 220 x 270 mm
+Ender-2 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creality,165 x 165 x 180 mm
+CR-10 Smart Pro,FDM (Fused Deposition Modeling),,Creality,300 x 300 x 400 mm
+CR-6 MAX,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creality,400 x 400 x 400 mm
+CR-X Pro,FDM (Fused Deposition Modeling),,Creality,300 x 300 x 400 mm
+HALOT-LITE,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Creality,192 x 120 x 200 mm
+HALOT-MAX,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Creality,293 x 165 x 300 mm
+LD-006,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Creality,192 x 120 x 250 mm
+Sermoon V1,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",Creality,175 x 175 x 165 mm
+Photon Mono X 6K,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Anycubic,245 x 197 x 122 mm 
+Photon Mono X 4K,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Anycubic,165 x 132 x 80 mm
+Photon Mono SQ,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Anycubic,128 x 120 x 200 mm
+Mega SE,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Anycubic,220 x 220 x 250 mm
+Foto 8.9,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",FlashForge,192 x 120 x 200 mm
+Creator Pro 2,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",FlashForge,200 x 148 x 150 mm
+Creator 4,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +6 materials",FlashForge,400 x 350 x 500 mm
+WaxJet 400,MJP (MultiJet Printing),Wax-like Resin,FlashForge,289 x 218 x 150 mm
+Focus 8.9,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",FlashForge,192 x 120 x 200 mm
+AD1,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",FlashForge,600 x 600 x 70 mm 
+Foto 6.0,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",FlashForge,130 x 78 x 155 mm
+Foto 8.9s,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",FlashForge,192 x 120 x 200 mm
+Foto 13.3,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",FlashForge,292 x 165 x 400 mm
+Dreamer NX,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +1 materials",FlashForge,485 x 344 x 382 mm
+Tycoon Max 2.0,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Kywoo3D,300 x 300 x 230 mm
+V-Core 3,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +7 materials",RatRig,300 x 300 x 300 mm
+LulzBot TAZ Workhorse,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",LulzBot,280 x 280 x 285 mm 
+Proforge 3,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Makertech 3D,300 x 300 x 300 mm
+GUIDER IIs,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",FlashForge,280 x 250 x 300 mm
+Creator 3 Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",FlashForge,300 x 250 x 200 mm
+SV04,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Sovol3d,300 x 300 x 400 mm
+Photon Ultra,DLP (Digital Light Processing),"Resin, Castable Resin, Tough Resin",Anycubic,102.4 x 57.6 x 165 mm
+Sonic Mini 8K,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Phrozen,165 x 72 x 180 mm
+Delta WASP 60100,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Wasp3d,600 x 600 x 1000 mm
+KP3S,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Kingroon,180 x 180 x 180 mm
+Hands 2 Pro IDEX,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Tenlog 3D,230 x 230 x 250 mm
+22 IDEX,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +2 materials",VisionMiner,350 x 350 x 450 mm
+Pro L,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",FELIXprinters,300 x 400 x 400 mm 
+Form 3+,SLA (Stereolithography),"Resin, Castable Resin, Tough Resin",Formlabs,335 x 200 x 300 mm 
+Photon M3 Max,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Anycubic,300 х 298 х 164 mm
+Jupiter,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",ELEGOO,277 x 156 x 300 mm
+Saturn 2,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",ELEGOO,218 x 123 x 250 mm
+SP-5,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Twotrees,300 x 300 x 330 mm
+SP-3,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Twotrees,220 x 220 x 220 mm
+BLU-5,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Twotrees,300 x 300 x 400 mm
+BLU-3,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Twotrees,235 x 235 x 280 mm
+i-mate,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Qidi Tech,260 x 200 x 200 mm
+Sidewinder X2,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Artillery,300 x 300 x 400mm
+Genius Pro,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Artillery,220 x 220 x 250 mm
+Cube 2,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Longer,120 x 140 x 105 mm
+Pro3,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Raise3D,300 x 300 x 300 mm
+Pro3 Plus,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Raise3D,300 x 300 x 605 mm
+Photon M3,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin and +1 materials",Anycubic,180 x 163.9 x 102.4 mm
+Ender-3 S1 Plus,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Creality,300 x 300 x 300 mm
+EPSILON W50,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",BCN3D,420 x 300 x 400 mm
+Epsilon W27,FDM (Fused Deposition Modeling),"PLA, ABS, Nylon and +2 materials",BCN3D,420 x 300 x 200 mm
+X1 Carbon,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA and +2 materials",Bambu Lab,256 x 256 x 256 mm
+Sonic Mighty 8K,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin and +1 materials",Phrozen,218  x 123  x 235 mm
+XiP,DUP (LCD-based Direct UV Printing),"Resin, Castable Resin, Tough Resin",Nexa3D,195 x 115 x 210 mm
+3DUJ-553,PolyJet and PolyJetMatrix,"Vero, Durable (PP-like) Resin, Tango (Rubber-like material)",Mimaki,508 x 508 x 305 mm
+V-Minion,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",RatRig,180 x 180 x 180 mm
+X-Maker,FDM (Fused Deposition Modeling),"PLA, ABS, Wood PLA",Qidi Tech,170 x 150 x 150 mm
